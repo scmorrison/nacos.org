@@ -1,0 +1,119 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: Japanese Program</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+					<a class=navSub href=nihongotorikumikata.php>Approach</a>
+					<a class=navSub href=nihongokeizoku.php>Lesson Timeline</a>
+					<a class=navSub href=nihongoshitsumon.php>Q & A</a>
+                                <a class=navSub href=nihongokenshuukoe.php>Testimonials</a>
+					<a class=navSub href=nihongonedan.php>Program Fee</a>
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<img src='nihongokenshuu_japaneseprogram.png' alt='Japanese Program' width='500' height='45'>
+<br><br>
+<img src='nihongokenshuu_dolce.jpg' alt='ドルチェ' width='150' height='196' align='right' style='margin:10px;'>
+<b>The Guiding Principles of NACOS</b>
+<br>
+<a href="nihongokenshuu_ourflyer.pdf" target="_new">Our flyer</a>
+<br><br>
+<b>1. If it's personal, it's never out of date</b>
+<br><br>
+One of the goals of language learning should be to make language personal. Language should become a part of you. It is not something you just learn with your head, but something that should be internalized and learned with your whole being. If you can get to that place, you won't have to rack your brain for the correct words or sentence structures. You won't become frozen or suffer mental blocks. It will just come naturally. In order to get to this place, you can't just memorize canned dialogs or sentence structures and grammar from textbooks. You have to use language to talk about yourself. In this way, it becomes relevant. You want to be able to talk about yourself so you will practice until you get it. You won't become bored. You will be able to talk about what you want to talk about. Language becomes meaningful and alive. The things that you are and the things that you've done are a part of you. You can't forget them. Whether you talk about them in your native language or a foreign tongue, the facts are still the same. Even if you forget the language, you won't forget the facts. It is relatively easy, then, to relearn the language to describe the facts.
+<br><br><br>
+<img src='gheader_speakfromheart.png' alt='speakfromheart' width='565' height='25'>
+<br><br><br>
+<b>2. Matching the language to the learner</b>
+<br><br>
+The language should be appropriate to the person learning it. It should match his/her age, social status, occupation, etc. If it does not, it's not useful. Having an adult memorize phrases like, "This is a pen" is not useful. The same grammar and sentence structures can be taught using vocabulary and situations that are more relevant to the learner. This keeps the learner from becoming bored and feeling like he/she is learning things that are below his/her level. Most useful daily conversation is carried out using very simple sentence structures. As long as the vocabulary matches the situation, simple sentences can be very useful.
+<br><br>
+<img src='nihongokenshuu_dolcekoba.jpg' alt='ドルチェの絵' width='145' height='135' align='right' style='margin:10px;'>
+<br>
+<b>3. Language should be written in the language</b>
+<br><br>
+The way most of us start learning a new language is to have it written in our native writing system. Japanese is written in romaji for native English speakers, and English is written (or at least pronounced as if it were written) in katakana for native Japanese speakers. These writing systems have pronunciations and intonations associated with them that may not match the target language. A native English speaker reading the sentence, "Kore wa pen desu" would tend to read the letters as English and pronounce them as such. This leads to strange pronunciations and intonations to a native Japanese speaker listening to this. Language should be learned using the writing system for that language. This way, the learners will have no preconceptions about how the symbols are pronounced and will learn to pronounce them according to the target language. It may take more time initially for the learner to learn a whole new writing system, but it will pay off in the end by allowing the learner to speak the language with the correct pronunciation and intonation.
+<br><br>
+<a href="nihongo_hiragana.jpg" target="_new">Nihongo hiragana</a>
+<br>
+<a href="nihongo_hiraganaromaji.jpg" target="_new">Nihongo hiragana & romaji</a>
+<br>
+<a href="nihongo_katakana.jpg" target="_new">Nihongo katanaka</a>
+<br>
+<a href="nihongo_romaji.jpg" target="_new">Nihongo romaji</a>
+<br>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: どぎまぎ　＜さ〜た＞</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<b>どぎまぎコミュニケーション　：　さ〜た</b>
+<br><br>
+<a href="rensaikiji_dogimagi_111saikuringu.php">サイクリングへ行きました。</a>
+<br>
+<a href="rensaikiji_dogimagi_151sabishiku.php">さびしくなります。</a>
+<br>
+<a href="rensaikiji_dogimagi_178surfing.php">サーフィンをやりました。</a>
+<br>
+<a href="rensaikiji_dogimagi_188sanka.php">参加できますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_141zannen.php">残念ですね。</a>
+<br>
+<a href="rensaikiji_dogimagi_044shashinwo.php">写真を撮らせて頂けますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_056shawaanoguai.php">シャワーの具合が悪いのですが。</a>
+<br>
+<a href="rensaikiji_dogimagi_154shouhinken.php">商品券をください。</a>
+<br>
+<a href="rensaikiji_dogimagi_252shinmai.php">新米なものですから。</a>
+<br>
+<a href="rensaikiji_dogimagi_157sukoshiokure.php">少し遅れます。</a>
+<br>
+<a href="rensaikiji_dogimagi_165sportsgasuki.php">スポーツが好きです。</a>
+<br>
+<a href="rensaikiji_dogimagi_147sumigokochi.php">住み心地のよいところです。</a>
+<br>
+<a href="rensaikiji_dogimagi_030seikyuusho.php">請求書に誤りがあります。</a>
+<br>
+<a href="rensaikiji_dogimagi_021sekinitsuitemo.php">席に着いてもいいですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_017sekiwotsumete.php">席を詰めていただけますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_152sounandesuka.php">そうなんですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_101sonochoushi.php">その調子。</a>
+<br>
+<a href="rensaikiji_dogimagi_171sorosoro.php">そろそろ失礼します。</a>
+<br>
+<a href="rensaikiji_dogimagi_100taihenkekkou.php">たいへん結構でしたよ。</a>
+<br>
+<a href="rensaikiji_dogimagi_253tasukete.php">助けて！警察を呼んでください。</a>
+<br>
+<a href="rensaikiji_dogimagi_181tanoshinde.php">楽しんでいます。</a>
+<br>
+<a href="rensaikiji_dogimagi_059chakkuga.php">チャックがあいていますが。</a>
+<br>
+<a href="rensaikiji_dogimagi_034chuumonshita.php">注文した料理についていますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_041chuumonto.php">注文と違うものがきました。</a>
+<br>
+<a href="rensaikiji_dogimagi_020chuumonwa.php">注文はこれだけですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_033chuumonwo.php">注文を変更することができますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_166choudoiiaji.php">ちょうどいい味です。</a>
+<br>
+<a href="rensaikiji_dogimagi_iidesuka.php">ちょっといいですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_145onegai.php">ちょっとお願いします。</a>
+<br>
+<a href="rensaikiji_dogimagi_158shitsurei.php">ちょっと失礼します。</a>
+<br>
+<a href="rensaikiji_dogimagi_tasukete.php">ちょっと助けていただけますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_149tachiyotta.php">ちょっと立ち寄っただけです。</a>
+<br>
+<a href="rensaikiji_dogimagi_226hokanokoto.php">ちょっと他のことを考えていたものですから。</a>
+<br>
+<a href="rensaikiji_dogimagi_019tsuginokadode.php">次の角で降ろして下さい。</a>
+<br>
+<a href="rensaikiji_dogimagi_182teikokuni.php">定刻に着きますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_093denkyuuga.php">電球が切れました。</a>
+<br>
+<a href="rensaikiji_dogimagi_173denwakawari.php">電話かわります。</a>
+<br>
+<a href="rensaikiji_dogimagi_095denwagakirete.php">電話が切れてしまいました。</a>
+<br>
+<a href="rensaikiji_dogimagi_007denwabangou.php">電話番号を間違えました。</a>
+<br>
+<a href="rensaikiji_dogimagi_191douitashi.php">どういたしまして。</a>
+<br>
+<a href="rensaikiji_dogimagi_008toushite.php">通して下さい。</a>
+<br>
+<a href="rensaikiji_dogimagi_175tourimasu.php">通ります。</a>
+<br>
+<a href="rensaikiji_dogimagi_174doanoshita.php">ドアの下から入れておきます。</a>
+<br>
+<a href="rensaikiji_dogimagi_081toirenoguai.php">トイレの具合がおかしいのですが。</a>
+<br>
+<a href="rensaikiji_dogimagi_185douikeba.php">どう行けばいいですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_098tokumei.php">匿名で苦情を伝えたいのですが。</a>
+<br>
+<a href="rensaikiji_dogimagi_163dokonooumare.php">どこのお生まれですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_184donokurai.php">どのくらいの分量ですか。</a>
+<br>
+<a href="rensaikiji_dogimagi_058tobiraga.php">扉がスムーズに開閉しません。</a>
+<br><br><br>
+<div class=navsub3 style="text-align:center;">
+<a href="rensaikiji_dogimagi.php">＜あ〜か＞</a>, ＜さ〜た＞, <a href="rensaikiji_dogimagi3.php">＜な〜は＞</a>, 
+<a href="rensaikiji_dogimagi4.php">＜ま〜や＞</a>, <a href="rensaikiji_dogimagi5.php">＜ら〜わ＞</a>
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

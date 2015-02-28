@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: Okitehanjou</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_kotowaza.php>Japanese Proverb : 1~24</a> 
+</div>
+<br>
+<b>Okite han-jou, nete ichi-jou, tenka totte mo nigouhan</b> 
+<br>
+Awake, half a mat. Asleep, one mat. Even if you rule the world, 4-5 bowls
+<br><br>
+Have you ever seen those people who never seem to have enough? No matter what they have, they always want more and are never satisfied. Are you one of those people? 
+<br><br>
+The Japanese have a saying that brings it all back down to earth. Okite han-jou, nete ichi-jou, tenka totte mo nigouhan. Literally, this means, “Awake, half a mat. Asleep, one mat. Even if you rule the world, 4-5 bowls.” No matter how big a mansion you live in, the space your body occupies when awake is about half a tatami mat (90 cm x 90 cm) and when you are asleep, at the most, one tatami mat (90 cm x 180 cm) is sufficient. If you become the ruler of the world, even eating to your heart's content, you can only eat about 4-5 bowls of rice at one sitting. 
+<br><br>
+In today's society, we are constantly bombarded with advertisements telling us what we need and we tend to glorify people who have a lot of material wealth. Because of this, we often find ourselves wanting more and more. In the midst of this, we need to examine our priorities and take stock of what is really important. Rather than desiring wealth and getting all worked up about it, isn't it better just to live the life you have now in your own way so that it has meaning for you? 
+<br><br>
+So remember this the next time you get bent out of shape wanting more and more. Sit back, take a deep breath, and enjoy what you have. And if you see someone else getting into this state, you can tell them, “Okite han-jou desu ne.” 
+<br><br>
+Usage note: Most Japanese sayings can be turned into complete sentences just by adding “desu” to the end. To add emphasis, add “desu yo”. To ask for agreements (think, “yeah,” “right,” “you know”), add “desu ne”.
+<br><br>
+<img src='rensaikiji_kotowaza_picokitehan.jpg' alt='起きて半畳' width='400' height='620'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 注文と違うものがきました</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi2.php>どぎまぎ　＜さ〜た＞</a> >
+注文と違うものがきました
+</div>
+<br>
+<b>注文と違うものがきました。</b> 
+<br>
+Osamu and his wife went to the restaurant that their friend recommended. The restaurant was supposed to be popular among local people. They also heard that it was crowded and they found that was true. The waitresses were so busy and working hard. The price and the quantity of the food was great so they realized why it was such a famous restaurant. After a while they were served their food but it wasn't what they ordered. They were going to tell the waitress but she was busy and working hard. They wanted to change their order but they felt sorry for her so they started to eat without saying anything to her.
+<br><br>
+知人に教えてもらい、家内と共にローカルに人気のあるレストランへ行きました。なるほど、うわさ通り大勢のお客さん相手にウエイトレスは忙しく立ち働いています。うなずける値段と量に、人気の訳を納得して料理を注文しました。ほどなくして料理が運ばれてきました。しかし、注文したものと違います。料理を取り替えてもらおうかと思いましたが、忙しそうに働くウエイトレスを見て、呼びとめるのも躊躇され、そのままなにも言わずに食べることにしました。
+<br><br>
+店が混み合う時には、一度に沢山注文をとります。確認しながらテーブルに運んではいても、間違えてしまうことは特別なことではありません。せっかく心待ちにしている料理ですから、遠慮せずに言ってみましょう。ウエイトレスは気持ち良く取り替えてくれるものです。
+<br><br>
+注文と違うものがきました。
+<br>   
+You gave me the wrong order.
+<br>   
+You made a mistake in my order.
+<br><br>
+チキンのかわりにビーフがきました。
+<br>
+You gave me beef instead of chicken.
+<br><br>
+ポテトではなく、ライスを注文したのですが。
+<br>  
+I wanted rice, not potatoes.
+<br><br>
+この肉、焼き過ぎです。ミディアムを注文しました。
+<br>   
+My steak is too well-done. I asked for medium.
+<br><br>
+<img src='rensaikiji_dogi041.jpg' alt='注文と違うものがきました' width='200' height='359'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

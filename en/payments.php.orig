@@ -1,0 +1,178 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: Make a Payment via PayPal</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<b>Make a Payment via PayPal</b>
+<br><br>
+<b>(M) Monthly Continuous Lessons - 80 minutes each</b><a id="pay_m"></a>
+<br>
+<i>You are welcome to pay in person by cash or check at
+<a href="nihongonedan.php">these lower rates</a>. If paying by check, please
+make it out to NACOS.</i>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="2PK4W7QE4KDW4">
+<table>
+<tr><td><input type="hidden" name="on0" value="Duration">Duration</td><td><select name="os0">
+	<option value="16 lessons">16 lessons $490.00 USD</option>
+	<option value="8 lessons">8 lessons $258.00 USD</option>
+	<option value="4 lessons">4 lessons $135.00 USD</option>
+	<option value="2 lessons">2 lessons $73.00 USD</option>
+</select> </td>
+<td>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</td>
+</tr>
+</table>
+</form>
+
+<br><br>
+<b>(S) Skype Lessons for Remote Learners</b><a id="pay_s"></a>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="8JDYM93CGZE7J">
+<table>
+<tr><td><input type="hidden" name="on0" value="Class Size">Twelve Initial Lessons:</td><td><select name="os0">
+	<option value="Individual">Individual $345.00 USD</option>
+	<option value="Family">Family $415.00 USD</option>
+</select> </td>
+<td>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</td>
+</tr>
+</table>
+</form>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3CF355JAQ6TEG">
+<table>
+<tr><td><input type="hidden" name="on0" value="Class Size and Duration">Continuing Lessons:</td><td><select name="os0">
+	<option value="Individual - 20 minutes">Individual - 20 minutes $80.00 USD</option>
+	<option value="Individual - 40 minutes">Individual - 40 minutes $150.00 USD</option>
+	<option value="Family - 20 minutes">Family - 20 minutes $100.00 USD</option>
+	<option value="Family - 40 minutes">Family - 40 minutes $190.00 USD</option>
+</select> </td>
+<td>
+<input type="hidden" name="currency_code" value="USD">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</td>
+</tr>
+</table>
+</form>
+
+<br><br>
+<b>(C) Company or Homeschool Japanese Program</b><a id="pay_c"></a>
+<br>
+<i>You are welcome to pay in person by cash or check at
+<a href="nihongonedan.php">these lower rates</a>. If paying by check, please
+make it out to NACOS.</i>
+<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+Six 80-minute lessons: $670
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9PVJPPDBF6WAW">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynow_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<br>
+<b>Donate</b>
+<br>
+Thank you for supporting NACOS' efforts to further international communication with your donation!
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="YYMEF2BFC8JGJ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<br>
+Thank you very much!
+<br>
+<img src='donation_flower.jpg' alt='Give' width='352' height='279' style='margin:40px;'>
+<br>
+<b>E-Mail:</b> <a href="mailto:nacos@nacos.org">nacos@nacos.org</a>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

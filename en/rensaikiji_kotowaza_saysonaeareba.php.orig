@@ -1,0 +1,105 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: Sonaeareba</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_kotowaza2.php>Japanese Proverb : 25~48</a> 
+</div>
+<br>
+<b>Sonaeareba urei nashi</b> 
+<br>
+If you are prepared, you don't have to worry
+<br><br>
+The Boy Scout motto is, “Be prepared.” Someone once asked Lord Baden-Powell, the founder of Scouting, “Be prepared for what?” To this he supposedly replied, “Why, for any old thing.” These are words to live by. 
+<br><br>
+The Japanese saying, Sonae areba urei nashi literally means, “If there is preparation, there are no worries.” This means that, if you are prepared for something, you don't have to worry about it. The more things that you can prepare yourself for, the less things you will have to worry about. Worrying about something wastes time and prevents you from taking action. You might as well use the time you would spend worrying about something to get yourself ready for it in case it actually happens. There is no point in worrying about whether it will rain or not. There is nothing you can do about it; it will or it won't. If you are worried that it might, just bring an umbrella. 
+<br><br>
+To be successful in business, you need to be prepared for many different contingencies. If demand for your product or service goes up, you need to be ready to ramp up production or expand your services. If demand goes down, you need to be ready to cut back. You need to have money in reserve in case of emergencies. You need to be ready for competition. The more situations you can be prepared for in life as well as business, the better able you will be to deal with these situations and survive them. 
+<br><br>
+So remember,  Sonae areba urei nashi desu ne. No worries, mate.
+<br><br>
+Usage note: Most Japanese sayings can be turned into complete sentences just by adding “desu” to the end. To add emphasis, add “desu yo”. To ask for agreements (think, “yeah,” “right,” “you know”), add “desu ne”.
+<br><br>
+<img src='rensaikiji_kotowaza_picsonaeareba.jpg' alt='備えあれば憂いなし' width='400' height='628'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

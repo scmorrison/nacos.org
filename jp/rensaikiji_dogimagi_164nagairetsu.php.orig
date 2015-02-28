@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 長い行列がありました</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi3.php>どぎまぎ　＜な〜は＞</a> >
+長い行列がありました
+</div>
+<br>
+<b>長い行列がありました。</b> 
+<br>
+The line was too long. / I didn't want to wait in line. Osamu went to the bathroom but there were too many people. He didn't want to wait in line so he didn't use the restroom. When he came back, he didn't know what to tell his friend.
+<br><br>
+先日、アメリカの友人とショッピング・センターへ行く機会がありました。ぶらぶら散策しているうちにトイレに行きたくなり、その旨を伝えてトイレに走りました。しかし、そこには長い行列が出来ていて、用を足すにはかなりの時間がかかりそうです。私はあまり友人を待たせるのもどうかと思い、又、しばらくは我慢できそうなので、引き返すことにしました。思いの他、早く戻って来た私を見て、友人は少し怪訝な表情を見せました。私は状況の説明など、何か一言伝えたかったのですが、とっさのことで思いつきませんでした。
+<br><br>
+英語としては難しくもない、よく知っていることでも、具体的な生活や活動の中で実際に使いこなすのには難しいものがありますね。下に便利な表現をあげてみましょう。
+<br><br>
+長い行列がありましたから。
+<br>    
+The line was too long.
+<br><br>
+列に並ぶのが嫌でしたから。
+<br>    
+I didn´t want to wait in line.
+<br><br>
+大変、混んでいましたから。
+<br>     
+It was too crowded.
+<br>
+There were too many people. 
+<br><br>
+<img src='rensaikiji_dogi164.jpg' alt='長い行列がありました' width='200' height='316'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 耳栓はありますか</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi4.php>どぎまぎ　＜ま〜や＞</a> >
+耳栓はありますか
+</div>
+<br>
+<b>耳栓はありますか。</b> 
+<br>
+Osamu was staying at the condo. This condo was not good because he couldn't sleep well. The neighbors and elevator made loud noises. He didn't want to feel frustrated so he went to buy ear plugs. He didn't know what the "ear plugs" in English. By the way, the ear plugs reminded him of some story. The other day, Osamu gave an American friend a ear pick but American friend didn't like it. He is still wondering why his friend didn't like it.
+<br><br>
+今回、滞在しているコンドミニアムは、ドアをノックする音、エレベーターの上がり下がりの音など、やかましくてゆっくり寝ているわけにいきません。イライラしていても仕方がないので、耳栓を買うことにしました。しかし、いざ、「耳栓を英語でどういうのだろう」と考えると、途端に詰まってしまいました。ところで、耳栓で思い出しましたが、以前、アメリカの人に、可愛い耳掻きをプレゼントしたことがあります。あまり喜ばれませんでした。どうしてだろうと今でも疑問に思っています。
+<br><br>
+耳栓は英語で、ear plugs と言います。素材は、ゴム(rubber)、スタイロフォーム(styrofoam)、パテ(putty) などがあります。耳掻きは、 ear pick 。しかし、 ear pick という言葉は、まず使いません。耳掻きそのものを使わないからです。医者に行けば、「あなたの肘よりも小さなものを耳に入れてはいけない！」などと注意されます。木製の小さな棒で、耳の穴奥深くほじくるなど危険この上ないと感じるからです。耳の外回りを掃除する綿棒(cotton swab)は使います。コピーをゼロックスというように、ブランド名の Q-tip の方が通りがよいかも知れません。
+<br><br>
+耳栓はありますか。
+<br>   
+Do you have ear plugs?
+<br>
+Do you carry ear plugs? 
+<br><br>
+<img src='rensaikiji_dogi137.jpg' alt='耳栓はありますか' width='200' height='341'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

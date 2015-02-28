@@ -1,0 +1,120 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 電球が切れました</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi2.php>どぎまぎ　＜さ〜た＞</a> >
+電球が切れました
+</div>
+<br>
+<b>電球が切れました。</b> 
+<br>
+Osamu was reading books in his hotel room. He realized that the light was flickering so he wanted to ask the front desk about it. He didn't know what to say so he just watched TV instead of reading his book.
+<br><br>
+ホテルの部屋で本を読んでいました。何やら光がチラチラするのでスタンドに目をやると電球がいまにも切れそうです。早速、フロントに連絡をとって電球を取り替えてもらいたいのですが、いざ連絡する段になると適当な表現も浮かばず、結局、テレビを見ることにしました。
+<br><br>
+日頃、何気なく使っている言葉を、いざ英語に置き換えようとすると困ってしまう場合がよくあります。いくつかの表現例をあげてみましょう。ちなみに、すべての電球が切れてしまうと停電（blackout、 power outage）ということになりますね。
+<br><br>
+電球が切れました。
+<br>     
+The light bulb went out (burned out).
+<br><br>     
+蛍光灯が切れました。
+<br>    
+The florescent light bulb burned out.
+<br><br>
+電球がユラユラと明滅しています。
+<br>   
+The light bulb is flickering.
+<br><br>   
+電球がもうじき切れそうです。
+<br>   
+The light is almost burned out.
+<br><br>      
+交換して頂けますか。
+<br>     
+Could you change it? 
+<br><br>
+<img src='rensaikiji_dogi093.jpg' alt='電球が切れました' width='200' height='360'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

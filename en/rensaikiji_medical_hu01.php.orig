@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 腹痛</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expessions　<あ〜か＞</a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+abdominal pain　腹痛　ふくつう
+<br>
+duodenal ulcer　十二指腸潰瘍　じゅうにしちょうかいよう
+<br>
+epigastric pain　上腹部痛（胃のあたり）　じょうふくぶつう（いのあたり）
+<br>
+gastritis　胃炎　いえん
+<br>
+gastric acid　胃酸　いさん
+<br>
+gastric ulcer　胃潰瘍　いかいよう
+<br>
+gastroenterologist　胃腸病専門医　いちょうびょうせんもんい
+<br>
+gastroenterology　胃腸病学　いちょうびょうがく
+<br>
+ulcer　潰瘍　かいよう
+<br><br>
+<img src='rensaikiji_medicalmanga_hukutsuu.jpg' alt='腹痛' width='186' height='250'>
+<br><br>
+When I experience something unpleasant, I feel my stomach aching (my stomach starts to ache).
+<br>
+何か嫌なことがあると、胃のあたりがシクシク痛みます。
+<br>
+なにかいやなことがあると、いのあたりがシクシクいたみます。
+<br>
+<br>
+I don't feel any pain in the stomach when things go well or when I am doing what I like.
+<br>
+ことがうまく運んだり、自分の興味のあることに集中している時には、痛みを感じないのですが。
+<br>
+ことがうまくはこんだり、じぶんのきょうみのあることにしゅうちゅうしているときには、いたみをかんじないのですが。
+<br>
+<br>
+I've never had a sharp pain in my stomach, but I feel heaviness in my stomach when I'm in a stressful situation or I'm irritated.
+<br>
+刺すような激しい痛みは、今までに一度もありませんが、緊張したり、何かにイライラすると胃が重たい感じになります。
+<br>
+さすような　はげしいいたみは、いままでに　いちどもありませんが、きんちょうしたり、なにかにイライラすると　いがおもたいかんじになります。
+<br>
+<br>
+Is it called neurotic <b>gastritis</b>?
+<br>
+神経性<b>胃炎</b>でしょうか。
+<br>
+しんけいせい<b>いえん</b>でしょうか。
+<br>
+<br>
+I tend to worry a lot and want to make sure everything is alright.
+<br>
+性格的には、細かいことを気にするタイプで、心配症です。
+<br>
+せいかくてきには、こまかいことを　きにするタイプで、しんぱいしょうです。
+<br>
+<br>
+I have gastric pain when I am hungry, which happens every 3 hours. 
+<br>
+お腹がすくと、胃が痛み出します。３時間おき位に空腹感があります。
+<br>
+おなかがすくと、いがいたみだします。３じかんおきぐらいにくうはくかんがあります。
+<br>
+<br>
+I try to eat yogurt at that time.
+<br>
+そんな時には、ヨーグルトを食べるようにしています。
+<br>
+そんなときには、ヨーグルトをたべるようにしています。
+<br><br><br>
+<b>A conversation between a patient and a doctor about the abdominal pain</b>
+<br>
+<i>Patient:</i>
+<br>
+My husband often complains that he gets dull <b>epigastric pain</b> whenever he is stressed even a little, and worries that he feels heaviness in the abdomen. He sometimes takes over-the-counter stomach medicine saying it eases his mind. Because the symptom remains the same for many years, it seems that he is just nervous. He was fine when he had his physical check up 3 years ago.
+<br><br>
+ちょっとしたストレスでイライラすると、すぐに、<b>胃のあたりがシクシク痛む</b>。何気なく腹部が重たい感じがして気になる。夫は、しばしば、こんな症状を訴えます。そして、気が向けば処方箋なしの胃薬を買ってきて気休めに飲んでいるようです。何年も症状が変化することなく、悪くなっている様子もないので、やはり神経的なものでしょうか？　３年前の健康診断では、何も異常はありませんでした。
+<br><br>
+<i>Doctor:</i>
+<br>
+It is often said that stress or worries damage the stomach. Well, the saying is not so much off the mark as we think. It has been elucidated that the brain plays a large role in the secretion of <b>gastric acid</b>. Mood, smell, taste and looking at food, all of this information is transmitted to the brain through the nervous pathway. The transmission leads to the secretion of gastric acid. In addition to the above finding, Helicobacter pylori, a bacterium, is found to be one of the causes of gastroduodenal ulcer. Even if your stomachache or <b>epigastric pain</b> is not worsening, it would be worth consulting with your doctor.
+<br><br>
+ストレスの為に、或いは、気の使いすぎで胃をやられるとよく言いますが、実は、これは考えられている程、的外れなのではありません。<b>胃酸</b>の分泌には、脳が深く関係していて、気分、臭い、味、又、食物を見るといった行為が神経経路を介して脳に行き届き、Uターンをして胃酸の分泌へとつながっている事が解明されています。このほかに最近では、H.pylori （ピロリ菌）という細菌が、胃・十二指腸潰瘍の発生の原因の一つとみられています。胃痛や<b>上腹部痛</b>がひどくならないまでも、かかりつけの医師にこのことを相談されるのもよろしいでしょう。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+As mentioned above, the thinking that worries make stomach ill is not necessarily wrong. To know that the thinking is in fact not incorrect may give you a piece of mind, even a little.
+<br><br>
+最初にも述べましたが、気にすると胃にくるのは、あながち間違った考えではないと知るだけでも、少しは胃が軽くなるかも知れませんね！
+<br>
+<div style="text-align:right;">
+[hu01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

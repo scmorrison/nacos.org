@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 値段を見間違っていました</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi3.php>どぎまぎ　＜な〜は＞</a> > 
+値段を見間違っていました
+</div>
+<br>
+<b>値段を見間違っていました。</b>
+<br>
+Osamu found a coat that he liked at the department store. It was a reasonable price and he decided to get it. But when he went to pay for it, the salespeson showed him the price and Osamu realized he made a mistake in reading the price tag. He thought that he shouldn't buy it because he had a certain budget. But there were so many people behind him and the salesperson gave him such a nice smile, that Osamu took out his money and paid for it. If you really don't want something, don't pay for it. You can say: "I'm sorry, but I changed my mind. I don't want it." or you can tell them that you misread the price. Don't worry, you are the customer and you should have the decision of buying something or not.
+<br><br>
+百貨店で気に入ったコートを見つけました。手頃な値段だったので、買うことにしました。しかし、レジで請求金額を示されて、はじめて数字を見間違っていることに気づきました。その後の予定を考えると、キャンセルしなくてはと思うのですが、後ろには人の列があり、店の人のにこやかな応対に押されてしまって、結局、何も言えず、財布からお札を取り出すこととなりました。
+<br><br>
+キャッシャーがレジに金額を打ち込んだ後／the cashier rings up yor purchase.／に買うのをやめるのは、少し勇気がいることかもしれません。しかし、やはり思い切って断わるべきかと思います。値段を見間違っていました。ごめんなさい。買うのをやめます／I misread teh price. I don’t wnat it. Sorry.　あるいは、I made a mistake on the price. I’m not getting this. と伝えて下さい。関連する表現例をあげてみましょう。
+<br><br>
+これはセールの商品ですか。
+<br>   
+Is this on sale?
+<br><br>
+このブラウスは２５％引きですね。
+<br><br>     
+This blouse is 25% off, right?
+<br><br>
+この商品は、この値札の２５％引きですか。
+<br>   
+Is this 25% off the price on the tag?
+<br><br>
+いいえ、この値札が既に２５％引きになっております。
+<br>  
+No, it’s already been marked down.
+<br><br>
+<img src='rensaikiji_dogi036.jpg' alt='値段を見間違っていました' width='200' height='354'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

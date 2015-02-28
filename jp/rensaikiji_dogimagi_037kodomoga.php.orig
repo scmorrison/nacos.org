@@ -1,0 +1,128 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 子供が迷子になりました</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi.php>どぎまぎ　＜あ〜か＞</a> >
+子供が迷子になりました
+</div>
+<br>
+<b>子供が迷子になりました。</b> 
+<br>
+This summer Osamu came to Hawaii with his wife, sister-in-law, and two children. Although we had jet lag, we went to the department store. They found a really good store and the adults were estatic about finding children’s clothing. During that time, the eldest child got lost and the younger one ran around a broke a display. That first day of their vacation, they had a hard time.
+<br><br>
+If the children break something small, you probably won’t have to pay. But some small stores have a sign that says, if you break it, you have to pay for it. They put this sign up because they can’t afford to pay for broken items.
+<br><br>
+この夏は、親戚の家族と共にハワイへやってきました。時差ぼけ（jet lag）をものともせず、早速、みんなで百貨店へ出かけました。大人たちが子供の服を探すのに夢中になっているうちに、上の子は迷子になり、下の子は館内をはしゃぎまわって、陳列物をこわしてしまいました。さんざんな休暇初日となりました。
+<br><br>
+子供を連れていると、思いがけないハプニングに出会い、肝を冷やすことも多いかと思います。子供が迷子になった時の為には、子供の特徴などをメモしておいたり、名札などを持たせると安心かもしれません。出来事に従って、参考になる表現例をあげてみましょう。
+<br><br>
+これと同じ服で、子供用はありますか？
+<br>          
+Does this come in a childrens’small (size)?
+<br>  
+Do you have something like this in childrens’small (size)?
+<br><br>    
+子供が迷子になりました。どこにいるかわかりません。
+<br>        
+I’ve lost my child and don’t know where he (she) is.
+<br>    
+(I’m missing my child.)
+<br><br>  
+館内放送 (public address system) をして頂けますか？
+<br>      
+Can you make announcements over the P.A. system?
+<br><br>     
+申し訳ありません。子供がとんでもないことをしました。
+<br> 
+I’m sorry for my child’s behavior.
+<br>    
+I appologize for my child’s behavior.
+<br><br>
+弁償いたします。
+<br>    
+I’ll reimburse you for the damage. 
+<br><br>
+<img src='rensaikiji_dogi037.jpg' alt='子供が迷子になりました' width='200' height='403'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 猩紅熱</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical2.php>Medical Expressions　<さ〜な></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_taionkei2.jpg' alt='発熱' width='218' height='200' align='right'>
+<br>
+antibiotics　抗生物質　こうせいぶっしつ
+<br>
+bacterium, bacteria　細菌　さいきん
+<br>
+cough　咳　せき
+<br>
+incubation period　潜伏期　せんぷくき
+<br>
+Nausea　吐き気　はきけ
+<br>
+Pathogen　病原体　びょうげんたい
+<br>
+rash, rash(es)　発疹　はっしん
+<br>
+scarlet fever　猩紅熱　しょうこうねつ
+<br>
+streptococcus　連鎖球菌　れんさきゅうきん
+<br>
+Vomiting　嘔吐　おうと
+<br><br>
+My high School age daughter has developed a sudden fever and a sore throat. She also complained of pain in herarms and legs.
+<br>
+高校生の娘が、急に、発熱と頭痛を訴えています。のどの痛みと、それに手足の痛みもあるようです。
+<br>
+こうこうせいのむすめが、きゅうに、はつねつとずつうをうったえています。のどのいたみと、それに　てあしのいたみもあるようです。
+<br>
+<br>
+My daughter's face looks red and she has <b>rashes</b> all over her body.
+<br>
+娘の顔が赤くなって、全身に赤い<b>発疹</b>が出ています。
+<br>
+むすめのかおがあかくなって、ぜんしんにあかい<b>はっしん</b>がでています。
+<br>
+<br>
+We've heard that <b>scarlet fever</b> is going around at school. Has she contacted it?
+<br>
+学校で、<b>猩紅熱</b>がはやっているらしいのですが、娘もそれでしょうか。
+<br>
+がっこうで、<b>しょうこうねつ</b>がはやっているらしいのですが、むすめもそれでしょうか。
+<br>
+<br>
+How long is the <b>incubation period</b> of scarlet fever?
+<br>
+<b>潜伏期間</b>はどのくらいですか。
+<br>
+<b>せんぷくきかん</b>は　どのくらいですか。
+<br>
+<br>
+Will the rash leave any permanent marks?
+<br>
+発疹の後はきれいに治るのでしょうか。
+<br>
+はっしんのあとは　きれいになおるのでしょうか。
+<br>
+<br>
+I've heard that there are aftereffects. I'm concerned.
+<br>
+何か後遺症が残ることがあると聞きましたので心配です。
+<br>
+なにか　こういしょうがのこることがあるとききましたので　しんぱいです。
+<br><br>
+<img src='rensaikiji_medicalmanga_hasshin.jpg' alt='発疹' width='152' height='250'>
+<br><br>
+<b>A conversation between a patient and a doctor about scarlet fever</b>
+<br>
+<i>Patient:</i>
+<br>
+I read a newspaper article which reported a high school student has contracted <b>scarlet fever</b> in Hawaii. I think that we won’t worry unnecessarily if you have the basic information on the disease.
+<br><br>
+ハワイで、ある高校の生徒達が<b>猩紅熱</b>にかかっている、という新聞記事を読みました。必要以上に不安感を持たないためにも、この病気に対する基本知識を知っておきたいものです。
+<br><br>
+<i>Doctor:</i>
+<br>
+When you contract the disease, you first have fever and sore throat, then a red rash over the chest and abdomen. Hence, it is named <b>scarlet fever</b>. This <b>rash</b> feels like touching sandpaper. <b>Scarlet fever</b> is caused by a bacterium called <b>streptococcus</b>, which exists widely in nature including humans, and spreads from human to human mainly by way of cough and other secretions. <b>Streptococcus</b> inside the body first causes sore throat then, goes into blood stream and destroys capillaries (small blood vessels), manifesting red <b>rashes</b>. You may have <b>nausea</b> and <b>vomiting</b>. <b>Antibiotics</b> are the effective treatment. Therefore, if you are hypersensitive to antibiotics, you should notify your doctor of it. Anyone, regardless of age, can contract the disease. Basic preventive methods, including hand washing, gargling and avoiding overworking, can apply to this disease.
+<br><br>
+<b>猩紅熱（scarlet fever)</b> は、字の示す如く、感染すると発熱と、のどの痛みに続き、赤色のブツブツが胸から腹部へと拡がる病気です。この<b>発疹</b>は紙やすり（Sandpaper) をさわったような感じがします。<b>猩紅熱</b>の原因菌は、<b>連鎖球菌</b>と呼ばれる細菌で、自然界（人間も含む）に広く存在しています。人から人へは、主として、咳などの分泌物によって伝染します。体内に入った<b>連鎖球菌</b>は、まず、のどの痛みを引き起こし、さらに血液中に入って、小血管を破壊します。これが赤い<b>発疹</b>となって現われます。<b>吐き気</b>や<b>嘔吐</b>の起こる場合もあります。<b>抗生物質</b>が有効な治療方法です。従って、ペニシリンに過敏状態の方は、医師に伝えることが大切です。伝染方法からお分かりのように、老人・子供に限らず、どの年齢でもかかります。過労を避ける、手洗いと、うがいの励行などの基本的な予防法が、この病気の場合にもあてはまります。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+Scarlet fever is called “shou-kou-netsu” in Japanese. The kanji “shou” means to rave, “kou” crimson and “netsu” fever. In old days when there were no antibiotics, people must be very scared of disease. However, it still is important to pay attention to health. It has not changed.
+<br><br>
+猩紅熱の「猩」は、「たけりくるう」という意味です。抗生物質のなかった昔、この病気が恐れられたことがしのばれます。それでも、健康に留意することの重要なことに、今も変わりありません。
+<br>
+<div style="text-align:right;">
+[shi09]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

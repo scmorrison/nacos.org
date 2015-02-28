@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 痛み止め薬</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expressions　<あ〜か＞</a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+gums　歯茎　しけい
+<br>
+liniment, ointment　塗り薬　ぬりぐすり
+<br>
+liquid medicine　水薬　みずぐすり
+<br>
+molar(s)/a back tooth, back teeth　奥歯　おくば
+<br>
+over the counter medicine　処方箋なしの薬　しょほうせんなしのくすり
+<br>
+pain killer, pain medicine, pain reliever　痛み止め薬　いたみどめくすり
+<br>
+pharmacy　薬局　やっきょく
+<br>
+soft gel　ソフトゼル錠　ソフトゼルじょう
+<br>
+tablets　錠剤　じょうざい
+<br>
+throb with pain　ずきずき痛む　ずきずきいたむ
+<br>
+toothache　歯痛　しつう　はいた
+<br><br>
+<img src='rensaikiji_medicalmanga_haita.jpg' alt='歯痛' width='200' height='172'>
+<br><br>
+I have had a <b>terrible toothache</b> since the night before last.
+<br>
+おとといの夜から、（奥歯が）<b>ズキズキうずいて</b>我慢ができません。
+<br>
+おとといのよるから、（おくばが）<b>ズキズキうずいて</b>　がまんができません。
+<br>
+<br>
+It's so painful that I can't chew food.
+<br>
+痛くて食べ物を噛むことができません。
+<br>
+いたくて　たべものを　かむことができません。
+<br>
+<br>
+I applied a cold compress to my jaw.
+<br>
+氷で下あごを冷やしました。
+<br>
+こおりで　したあごをひやしました。
+<br>
+<br>
+Which is more effective on <b>gums</b>, <b>tablets</b> or <b>liniment</b>?
+<br>
+<b>飲み薬</b>、<b>歯茎</b>に</b>塗る薬、どちらがよく効きますか？
+<br>
+<b>のみぐすり</b>、<b>しけい</b>に<b>ぬるくすり</b>、どちらがよくききますか？
+<br>
+<br>
+They all have the same name on the label. What are the difference?
+<br>
+これらは同じ名前の薬ですが、何が違うのですか？
+<br>
+これらはおなじなまえのくすりですが、なにがちがうのですか？
+<br>
+<br>
+Is the shape the only difference?
+<br>
+薬の型が違うだけですか？
+<br>
+くすりのかたがちがうだけですか？
+<br>
+<br>
+Do they work in different ways?
+<br>
+どのように効果が違いますか？
+<br>
+どのように　こうかがちがいますか？
+<br><br><br>
+<b>A conversation between a patient and a doctor about
+<br>
+pain killer, pain medicine, pain reliever</b>
+<br>
+<i>Patient:</i>
+<br>
+In the dead of the night a few days ago, I had a sudden ache in the left molar. The following day, a sharp pain spread to the left jaw, neck and shoulder. I decided to buy a <b>pain medicine</b> at the <b>pharmacy</b>. I felt a little uneasy to buy a pain medicine that was suitable to me, out of the many pain medicines displayed on the shelves at the pharmacy.
+<br><br>
+２、３日前の深夜に、突然、左の奥歯がうずきはじめました。次の日、次第に、左あご、首筋、肩まで激しく痛んできたので、<b>薬局</b>で<b>痛み止め薬</b>を買うことにしました。薬局のカウンターに並んでいるたくさんの種類の中から、自分の体質に合うものを選ぶのは、少々不安でした。
+<br><br>
+<i>Doctor:</i>
+<br>
+As you mentioned, many same-looking medicines are displayed at pharmacies. Take a look at the outer box, which says “for cold”, “for cough”, “for flu”, “for sinus” and so forth.  If this is the first time that you take medicine sold in the US, buy a medicine that says regular strength. The standard of drug manufacture varies by countries, and average body size also differs by countries. It is not advisable to take medications of extra strength just because you are having severe pain.  If you are taking other medications for some chronic diseases, or you are allergic to aspirin or any medication, you should consult your doctor before taking new medications. Even if the medication is of regular strength, overdose is still dangerous. Furthermore, the permissible highest dose (for example, 6 tabs a day) written on the outer box is not necessarily applicable to everybody.
+<br><br>
+おっしゃる通り、薬局の棚には、同じ様な薬がずらりと並んでいて、驚かされます。しかし、箱の表書きを読むと、COLD（風邪用） COUGH（咳用）FLU（インフルエンザ用）SINUS（いわゆる鼻ずまり用）等と書いてあります。米国製の鎮痛剤が初めてという方なら、regular strength（普通の強さ）のをお使いになった方がよいでしょう。国によって薬剤製造の基準が違いますし、体格も違いますので、痛いからといって、すぐ、extra strength（特に強い）はお薦めできません。又、持病で日頃服用なさっている方やアスピリンにアレルギーのある方は、前もって医師にご相談なさって下さい。regular strengthの薬でも飲み過ぎは危険です。さらに、制限量(たとえば、一日６錠まで)が指示されていても、その量までは誰にでも安全というわけではないことを心得ておきましょう。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+Pain medicines should be among household medicine, but examine them now and then, to be sure that they are within expiration dates.
+<br><br>
+痛み止め薬は常備薬として必要ですが、期限外にならないように、 EXP 4/09（'09年の４月まで有効）を時々チェックしましょう。
+<br>
+<div style="text-align:right;">
+[i02]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

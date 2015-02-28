@@ -1,0 +1,200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: ファイブロマイアルジァ</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expressions　<あ〜か></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+American College of Rheumatology　全米リウマチ協会　ぜんべいリウマチきょうかい
+<br>
+body aches　身体の痛み　からだのいたみ
+<br>
+chronic stiffness　慢性的なこり　まんせいてきなこり
+<br>
+fatigue　疲労感　ひろうかん
+<br>
+Fibromyalgia　ファイブロマイアルジァ
+<br>
+irritable bowel syndrome　消化器系の過敏症　しょうかきけいのかびんしょう
+<br>
+muscle pain　筋肉痛　きんにくつう
+<br>
+rheumatologist　リウマチ専門医　リウマチせんもんい
+<br>
+stiffness　こわばり、こり
+<br>
+sleep disturbance　睡眠がとれない　すいみんがとれない
+<br><br>
+<img src='rensaikiji_medicalmanga_hiroukan.jpg' alt='疲労感' width='250' height='188'>
+<br><br>
+When I start cleaning house, I always have a sharp pain in my left hip.
+<br>
+家の中の掃除をすると、いつも左の腰のうしろが刺すように痛みます。
+<br>
+いえのなかのそうじをすると、いつもひだりのこしのうしろが　さすようにいたみます。
+<br>
+<br>
+I am aware that I have bad posture after a while, but I can't help it.
+<br>
+長時間無意識のうちに不自然な姿勢をとっているのはわかっていますが・・・
+<br>
+ちょうじかん　むいしきのうちに　ふしぜんなしせいをとっているのはわかっていますが・・・
+<br>
+<br>
+It is painful at night while I am in bed and when I get up. I really suffer from it.
+<br>
+夜寝ていても痛みますし、また起き上がる時にも痛むので辛いです。
+<br>
+よる　ねていてもいたみますし、また　おきあがるときにもいたむので つらいです。
+<br>
+<br>
+When I lift heavy bags at the check out counter at supermarkets, my upper arms and shoulders ache for a while.
+<br>
+スーパーマーケットでの重い買い物袋を持つと、上腕と肩にしばらく痛みが残ります。
+<br>
+スーパーマーケットでの　おもいかいものぶくろをもつと　じょうわんとかたに　しばらくいたみがのこります。
+<br>
+<br>
+I have muscle pain in my shoulder, when I lift a heavy kettle.
+<br>
+今では右手で重いやかんを持ち上げただけでも、肩の付け根の筋肉が痛みます。
+<br>
+いまでは　みぎてで　おもいやかんを　もちあげただけでも、かたのつけねの　きんにくがいたみます。
+<br>
+<br>
+It is difficult to raise arms above my shoulders because of the pain. My neck gets stiff.
+<br>
+痛みのせいで腕を肩より上にあげにくく、首の筋肉がこわばった感じがします。
+<br>
+いたみのせいで　うでをかたよりうえにあげにくく、くびのきんにくがこわばったかんじがします。
+<br>
+<img src='rensaikiji_medicalmanga_aiken.jpg' alt='愛犬' width='206' height='250' align='right'>
+<br>
+The pain is always in the same spot.
+<br>
+痛みの出る場所はいつも同じところです。
+<br>
+いたみのでるばしょは　いつもおなじところです。
+<br>
+<br>
+The muscle here has been aching for a long time.
+<br>
+この筋が慢性的に痛むんです。
+<br>
+このすじが　まんせいてきにいたむんです。
+<br>
+<br>
+My stomach often gurgles and I have runs.
+<br>
+お腹がよくゴロゴロ鳴って下痢をします。
+<br>
+おなかがよくゴロゴロなって　げりをします。
+<br><br><br>
+<b>A conversation between a patient and a doctor about Fibromyalgia</b>
+<br>
+<i>Patient:</i>
+<br>
+<b>Fibromyalgia</b> is said to be an old, yet new disease. What is known about the disease so far?
+<br><br>
+<b>Fibromyalgia（ファイブロマイアルジァ）</b>は、古くて新しい病気だということですが、よく知られた病気とはどのようなものですか。
+<br><br>
+<i>Doctor:</i>
+<br>
+Fibro- is a prefix indicating that the word is related to fibrous tissue, and myalgia means <b>muscle pain</b>. Hence, <b>fibromyalgia</b> means disorders of fibrous tissue with <b>muscle pain</b>. Symptoms include generalized pain, <b>fatigue</b>, disturbed sleep and other somatic symptoms. Although the cause of fibromyalgia is unknown, abnormal pain processing in the central nervous system is suspected by psychophysiologic and neurophysiologic researches. Approximately half of the people with widespread pain meet the classification criteria of <b>fibromyalgia</b> by the <b>American College of Rheumatology (ACR)</b>. Current pharmacologic treatment includes antidepressant and antiepileptic drugs. Nonpharmacologic management such as exercise, meditation and yoga, stress management and counseling are said to be effective
+<br><br>
+Fibro-は繊維組織との関係を示す接頭語で、myalgiaは<b>筋肉痛</b>のことです。<b>ファイブロマイアルジャ</b>は<b>筋肉痛</b>を伴う繊維組織障害のことを示します。症状として、全身の痛み、<b>疲労感</b>、睡眠がよく取れない、その他の身体症状が含まれます。原因は確定されていませんが、神経生理学や精神生理学の研究で、中枢神経系における痛みの処理の障害が疑われています。全身の痛みを訴える人の半数は<b>全米リウマチ協会</b>による<b>ファイブロマイアルジァ</b>の定義にあてはまるとされています。薬物治療法として、抗うつ病薬、抗てんかん薬がありますが、それ以外に、身体運動、黙想、ヨガ、カウンセリング等のストレス対応策が効果をあげています。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+Exercise for people with muscle pain may seem like missing the mark, but as far as fibromyalgia is concerned, it is an important component of treatment.
+<br><br>
+筋肉痛に運動と言えば的外れに思えるのですが、ファイブロマイアルジァに限っていえば、治療の重要な要素です。
+<br>
+<div style="text-align:right;">
+[f01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

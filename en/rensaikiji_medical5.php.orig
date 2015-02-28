@@ -1,0 +1,776 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: Medical　H〜N</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<b>Medical Expressions : H〜N</b><a id=top></a>
+<br>
+<div class=navsub3 style="text-align:center;">
+<a href="rensaikiji_medical.php"><あ〜か＞</a>, <a href="rensaikiji_medical2.php">＜さ〜な＞</a>, <a href="rensaikiji_medical3.php">＜は〜わ＞</a>, <a href="rensaikiji_medical4.php">＜A〜G＞</a>, ＜H〜N＞, <a href="rensaikiji_medical6.php">＜O〜Z＞</a>
+</div>
+<br>
+Please click on the "Usage" link next to each definition to see examples of how to use these medical terms.言葉の右にリンクしているボタンをクリックすると、医学用語を使う場面が出てきます。
+<br><br>
+【H】
+<br>
+habit-forming　習慣性のある　しゅうかんせいのある
+<a href="rensaikiji_medical_chi02.php">chi02</a>
+<br>
+hallucination 　幻覚症状　げんかくしょうじょう
+<a href="rensaikiji_medical_a02.php">a02</a>
+<br>
+hallux valgus 　外反母趾　がいはんぼし
+<a href="rensaikiji_medical_ga01.php">ga01</a>
+<br>
+hair loss　抜け毛　ぬけげ
+<a href="rensaikiji_medical_ha02.php">ha02</a>
+<br>
+hand　手　て
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<br>
+hangover　二日酔い　ふつかよい
+<a href="rensaikiji_medical_a02.php">a02</a>
+<br>
+hard of hearing　耳が遠い　みみがとおい
+<a href="rensaikiji_medical_ke01.php">ke01</a>
+<br>
+hardened skin　皮膚硬化　ひふこうか
+<a href="rensaikiji_medical_ga01.php">ga01</a>
+<br>
+hard lump(s)　しこり（ぐりぐり）
+<a href="rensaikiji_medical_i01.php">i01</a>
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+have a difficulty to urinate, have a difficulty urinating
+<br>
+排尿困難　はいにょうこんなん
+<a href="rensaikiji_medical_ze01.php">ze01</a>
+<br>
+have a skin eruption　発疹する　はっしんする
+<a href="rensaikiji_medical_hi01.php">hi01</a>
+<br>
+head heaviness　頭重感　ずじゅうかん
+<a href="rensaikiji_medical_he01.php">he01</a>
+<br>
+headache　頭痛　ずつう
+<a href="rensaikiji_medical_he01.php">he01</a>
+<a href="rensaikiji_medical_su01.php">su01</a>
+<br>
+health food　健康食品　けんこうしょくひん
+<a href="rensaikiji_medical_e02.php">e02</a>
+<br>
+health insurance　健康保険証　けんこうほけんしょう
+<a href="rensaikiji_medical_sa01.php">sa01</a>
+<a href="rensaikiji_medical_i04.php">i04</a>
+<a href="rensaikiji_medical_ke02.php">ke02</a>
+<br>
+hearing aid　補聴器　ほちょうき
+<a href="rensaikiji_medical_ke01.php">ke01</a>
+<br>
+heart attack　心臓発作　しんぞうほっさ
+<a href="rensaikiji_medical_ki02.php">ki02</a>
+<br>
+heart beat　心拍　しんぱく
+<a href="rensaikiji_medical_su03.php">su03</a>
+<a href="rensaikiji_medical_shi05.php">shi05</a>
+<br>
+heartburn　胸焼け　むねやけ
+<a href="rensaikiji_medical_i01.php">i01</a>
+<br>
+heart failure　心臓麻痺　しんぞうまひ
+<a href="rensaikiji_medical_ki02.php">ki02</a>
+<br>
+heat　熱(温度)　ねつ（おんど）
+<a href="rensaikiji_medical_chi04.php">chi04</a>
+<br>
+heatstroke　熱射病　ねっしゃびょう
+<a href="rensaikiji_medical_ne02.php">ne02</a>
+<br>
+heel　踵　かかと
+<a href="rensaikiji_medical_ga01.php">ga01</a>
+<br>
+height　身長　しんちょう
+<a href="rensaikiji_medical_hi02.php">hi02</a>
+<br>
+Helicobacter pylori　ピロリ菌　ピロリきん
+<a href="rensaikiji_medical_py01.php">py01</a>
+<br>
+hemiparalysis　片麻痺　かたまひ
+<a href="rensaikiji_medical_ku03.php">ku03</a>
+<br>
+Hemophilus influenza B　B型インフルエンザ　Bがたインフルエンザ
+<a href="rensaikiji_medical_i03.php">i03</a>
+<br>
+hemorrhage　出血　しゅっけつ
+<a href="rensaikiji_medical_ku03.php">ku03</a>
+<a href="rensaikiji_medical_e01.php">e01</a>
+<br>
+hemorrhagic fever　出血熱　しゅっけつねつ
+<a href="rensaikiji_medical_e01.php">e01</a>
+<br>
+hepatitis B 　B型肝炎　Bがたかんえん
+<a href="rensaikiji_medical_i03.php">i03</a>
+<br>
+herpes simplex　ヘルペス
+<a href="rensaikiji_medical_mi02.php">mi02</a>
+<a href="rensaikiji_medical_ko01.php">ko01</a>
+<br>
+hereditary 遺伝体質　いでんたいしつ
+<a href="rensaikiji_medical_i01.php">i01</a>
+<br>
+herniated lumbar disk　ぎっくり腰　ぎっくりごし
+<a href="rensaikiji_medical_hu02.php">hu02</a>
+<br>
+high fever　高熱　こうねつ
+<a href="rensaikiji_medical_e01.php">e01</a>
+<br>
+hip　大腿部　だいたいぶ
+<a href="rensaikiji_medical_chi04.php">chi04</a>
+<br>
+HIV (Human Immunodeficiency Virus)　
+<br>
+人免疫不全ウイルス　ひとめんえきふぜんウイルス
+<a href="rensaikiji_medical_e01.php">e01</a>
+<br>
+hives　蕁麻疹　じんましん
+<a href="rensaikiji_medical_hi03.php">hi03</a>
+<a href="rensaikiji_medical_a01.php">a01</a>
+<br>
+hobby, hobbies　趣味　しゅみ
+<a href="rensaikiji_medical_a04.php">a04</a>
+<br>
+hormone　ホルモン
+<a href="rensaikiji_medical_ho01.php">ho01</a>
+<br>
+hormonal function　ホルモンの機能　ホルモンのきのう
+<a href="rensaikiji_medical_ho01.php">ho01</a>
+<a href="rensaikiji_medical_ho02.php">ho02</a>
+<br>
+hormone replacement therapy　ホルモン代用療法　ホルモンだいようりょうほう
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+hot pack　温湿布　おんしっぷ
+<a href="rensaikiji_medical_mo01.php">mo01</a>
+<br>
+household medicine　家庭常備薬　かていじょうびやく
+<a href="rensaikiji_medical_shi01.php">shi01</a>
+<a href="rensaikiji_medical_ka02.php">ka02</a>
+<br>
+how to take medicine　服用方法　ふくようほうほう
+<a href="rensaikiji_medical_shi01.php">shi01</a>
+<br>
+human papilloma virus　ヒトパピローマウイルス
+<a href="rensaikiji_medical_shi04.php">shi04</a>
+<br>
+hunger　空腹　くうふく
+<a href="rensaikiji_medical_di01.php">di01</a>
+<br>
+hungry　ひもじい
+<a href="rensaikiji_medical_di01.php">di01</a>
+<br>
+hurt　痛む　いたむ、痛める　いためる
+<a href="rensaikiji_medical_shi02.php">shi02</a>
+<br>
+hypersensitivity　過敏症　かびんしょう
+<a href="rensaikiji_medical_ku01.php">ku01</a>
+<br>
+hypertension　高血圧　こうけつあつ
+<a href="rensaikiji_medical_shi01.php">shi01</a>
+<a href="rensaikiji_medical_he01.php">he01</a>
+<a href="rensaikiji_medical_su03.php">su03</a>
+<a href="rensaikiji_medical_chi01.php">chi01</a>
+<br>
+hyperthermia　高熱(体温上昇)　こうねつ（たいおんじょうしょう）
+<a href="rensaikiji_medical_ne02.php">ne02</a>
+<br>
+hyperthyroidism　甲状腺機能過多　こうじょうせんきのうかた
+<a href="rensaikiji_medical_ho02.php">ho02</a>
+<br>
+hypotension　低血圧　ていけつあつ
+<a href="rensaikiji_medical_su03.php">su03</a>
+<br>
+hypothyroidism　甲状腺機能低下症　こうじょうせんきのうていかしょう
+<a href="rensaikiji_medical_ho02.php">ho02</a>
+<br>
+hypoxemia　酸欠（さんけつ）　酸欠状態（さんけつじょうたい）
+<a href="rensaikiji_medical_su02.php">su02</a>
+<br>
+hysterectomy　子宮摘出　しきゅうてきしゅつ
+<a href="rensaikiji_medical_shi04.php">shi04</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+【I】
+<br>
+Icepack　冷湿布 れいしっぷ
+<a href="rensaikiji_medical_ne01.php">ne01</a>
+<br>
+ideal weight　理想の体重　りそうのたいじゅう
+<a href="rensaikiji_medical_hi02.php">hi02</a>
+<br>
+immunity　免疫　めんえき
+<a href="rensaikiji_medical_me02.php">me02</a>
+<br>
+impetigo　膿痂疹　のうかしん
+<a href="rensaikiji_medical_shi08.php">shi08</a>
+<br>
+incubation period　潜伏期　せんぷくき
+<a href="rensaikiji_medical_mi02.php">mi02</a>
+<br>
+incurable disease　難病　なんびょう
+<a href="rensaikiji_medical_ke02.php">ke02</a>
+<br>
+indications　適応症（効能効果もふくまれる）　
+<br>
+てきおうしょう（こうのうこうかもふくまれる）
+<a href="rensaikiji_medical_ku01.php">ku01</a>
+<br>
+infection　感染　かんせん
+<a href="rensaikiji_medical_shi07.php">shi07</a>
+<a href="rensaikiji_medical_mi01.php">mi01</a>
+<br>
+infection route　感染経路　かんせんけいろ
+<a href="rensaikiji_medical_shi07.php">shi07</a>
+<br>
+inflammation　炎症　えんしょう
+<a href="rensaikiji_medical_chi02.php">chi02</a>
+<br>
+influenza　インフルエンザ
+<a href="rensaikiji_medical_ha03.php">ha03</a>
+<br>
+ingrown toenails　爪が足指内にくいこむ　つめがあしゆびないにくいこむ
+<a href="rensaikiji_medical_ga01.php">ga01</a>
+<br>
+injection　注射　ちゅうしゃ
+<a href="rensaikiji_medical_ka01.php">ka01</a>
+<br>
+inherit, inherited　遺伝する　いでんする
+<a href="rensaikiji_medical_to01.php">to01</a>
+<br>
+inner ear　内耳　ないじ
+<a href="rensaikiji_medical_mi01.php">mi01</a>
+<a href="rensaikiji_medical_vi01.php">vi01</a>
+<br>
+insect bite　虫刺され　むしさされ
+<a href="rensaikiji_medical_ka02.php">ka02</a>
+<br>
+insurance payment　医療保険支払額　いりょうほけんしはらいがく
+<a href="rensaikiji_medical_i04.php">i04</a>
+<br>
+insulin　インシュリン
+<a href="rensaikiji_medical_to01.php">to01</a>
+<br>
+interested in (be)　興味を持つ　きょうみをもつ
+<a href="rensaikiji_medical_a04.php">a04</a>
+<br>
+intraocular pressure　眼内圧　がんないあつ
+<a href="rensaikiji_medical_ri01.php">ri01</a>
+<br>
+irregular pulse (arrhythmia)　不整脈　ふせいみゃく
+<a href="rensaikiji_medical_su03.php">su03</a>
+<a href="rensaikiji_medical_shi05.php">shi05</a>
+<br>
+irritable colon syndrome　消化器系の過敏症　しょうかきけいのかびんしょう
+<a href="rensaikiji_medical_f01.php">f01</a>
+<br>
+irritant substance　刺激性の物質　しげきせいのぶっしつ
+<a href="rensaikiji_medical_go01.php">go01</a>
+<br>
+irritated　いらいらする
+<a href="rensaikiji_medical_u01.php">u01</a>
+<br>
+ischemic heart disease　虚血性心臓病　きょけつせいしんぞうびょう
+<a href="rensaikiji_medical_ki02.php">ki02</a>
+<br>
+isolation　隔離　かくり
+<a href="rensaikiji_medical_e01.php">e01</a>
+<br>
+itching　痒み　かゆみ
+<a href="rensaikiji_medical_hi01.php">hi01</a>
+<a href="rensaikiji_medical_hi03.php">hi03</a>
+<br>
+itchy　痒い　かゆい
+<a href="rensaikiji_medical_hi01.php">hi01</a>
+<a href="rensaikiji_medical_hi03.php">hi03</a>
+<br>
+IV therapy　静脈点滴(請求書に記載の)
+<br>
+じょうみゃくてんてき（せいきゅうしょにきさいの）
+<a href="rensaikiji_medical_i04.php">i04</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+【J】
+<br>
+jargon　ちんぷんかんぷん
+<a href="rensaikiji_medical_ke01.php">ke01</a>
+<br>
+jaw　顎　あご
+<a href="rensaikiji_medical_ha01.php">ha01</a>
+<br>
+jet lag　時差ぼけ　じさぼけ
+<a href="rensaikiji_medical_ji01.php">ji01</a>
+<br>
+joint(s)　関節　かんせつ
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<a href="rensaikiji_medical_chi04.php">chi04</a>
+<br>
+joint ache　関節の痛み　かんせつのいたみ
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<br>
+joint stiffness　関節のこわばり　かんせつのこわばり
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<br>
+joint swelling　関節の腫れ　かんせつのはれ
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+【K】
+<br>
+keloid　ケロイド
+<a href="rensaikiji_medical_ya01.php">ya01</a>
+<br>
+keep leaning　学び続ける　まなびつづける
+<a href="rensaikiji_medical_chi03.php">chi03</a>
+<a href="rensaikiji_medical_a04.php">a04</a>
+<br>
+kidney　腎臓　じんぞう
+<a href="rensaikiji_medical_ji02.php">ji02</a>
+<br>
+kidney transplant　腎臓移植　じんぞういしょく
+<a href="rensaikiji_medical_ji02.php">ji02</a>
+<br>
+knee　膝　ひざ
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+【L】
+<br>
+LAB　検査(請求書に記載の)　けんさ（せいきゅうしょにきさいの）
+<a href="rensaikiji_medical_i04.php">i04</a>
+<br>
+labor, labor pains　陣痛　じんつう
+<a href="rensaikiji_medical_ni01.php">ni01</a>
+<br>
+lack of sleep　睡眠不足　すいみんふそく
+<a href="rensaikiji_medical_su02.php">su02</a>
+<a href="rensaikiji_medical_ji01.php">ji01</a>
+<br>
+laser beam　レーザー光線　レーザーこうせん
+<a href="rensaikiji_medical_bi01.php">bi01</a>
+<br>
+laser therapy　レーザー療法　レーザーりょうほう
+<a href="rensaikiji_medical_ri01.php">ri01</a>
+<br>
+laser treatment　レーザー治療　レーザーちりょう
+<a href="rensaikiji_medical_bi01.php">bi01</a>
+<br>
+laxative(s)　緩下剤　かんげざい
+<a href="rensaikiji_medical_be01.php">be01</a>
+<br>
+Legs got swollen　足がむくむ　あしがむくむ
+<a href="rensaikiji_medical_ji01.php">ji01</a>
+<br>
+lice　虱　しらみ
+<a href="rensaikiji_medical_shi08.php">shi08</a>
+<br>
+ligament　靭帯　じんたい
+<a href="rensaikiji_medical_ne01.php">ne01</a>
+<br>
+limp　ぐったり
+<a href="rensaikiji_medical_ne02.php">ne02</a>
+<br>
+lines　皺　しわ
+<a href="rensaikiji_medical_me01.php">me01</a>
+<a href="rensaikiji_medical_bi01.php">bi01</a>
+<a href="rensaikiji_medical_hi01.php">hi01</a>
+<br>
+liniment　塗り薬　ぬりぐすり
+<a href="rensaikiji_medical_i02.php">i02</a>
+<br>
+lipid　脂肪　しぼう
+<a href="rensaikiji_medical_chi01.php">chi01</a>
+<a href="rensaikiji_medical_a03.php">a03</a>
+<a href="rensaikiji_medical_be01.php">be01</a>
+<a href="rensaikiji_medical_e02.php">e02</a>
+<br>
+liposuction　脂肪の吸引　しぼうのきゅういん
+<a href="rensaikiji_medical_bi01.php">bi01</a>
+<br>
+Lips become chapped　唇がかさつく くちびるがかさつく
+<a href="rensaikiji_medical_ji01.php">ji01</a>
+<br>
+liquid medicine　水薬　みずぐすり
+<a href="rensaikiji_medical_i02.php">i02</a>
+<br>
+listless　ぐったりして元気がない　ぐったりしてげんきがない
+<a href="rensaikiji_medical_shi03.php">shi03</a>
+<br>
+little lumps on the side of tongue　舌の縁のぶつぶつ　したのふちのぶつぶつ
+<a href="rensaikiji_medical_ko01.php">ko01</a>
+<br>
+liver　肝臓　かんぞう
+<a href="rensaikiji_medical_a02.php">a02</a>
+<br>
+liver cirrhosis　肝硬変　かんこうへん
+<a href="rensaikiji_medical_a02.php">a02</a>
+<br>
+long life (a)　長寿　ちょうじゅ
+<a href="rensaikiji_medical_chi03.php">chi03</a>
+<br>
+longevity　長寿　ちょうじゅ
+<a href="rensaikiji_medical_chi03.php">chi03</a>
+<br>
+lose consciousness　意識を失う　いしきをうしなう
+<a href="rensaikiji_medical_ku03.php">ku03</a>
+<br>
+lose eyesight　視力が落ちる　しりょくがおちる
+<a href="rensaikiji_medical_ke03.php">ke03</a>
+<a href="rensaikiji_medical_ro01.php">ro01</a>
+<a href="rensaikiji_medical_ke01.php">ke01</a>
+<br>
+lose weight　痩せる　やせる
+<a href="rensaikiji_medical_di01.php">di01</a>
+<br>
+lost appetite/loss of appetite　食欲不振　しょくよくふしん
+<a href="rensaikiji_medical_u01.php">u01</a>
+<br>
+loud noise　うるさい音　うるさいおと
+<a href="rensaikiji_medical_ro01.php">ro01</a>
+<br>
+lower back pain　下部腰痛　かぶようつう
+<a href="rensaikiji_medical_yo01.php">yo01</a>
+<br>
+lumber supporter　腰のサポーター　こしのサポーター
+<a href="rensaikiji_medical_hu02.php">hu02</a>
+<br>
+lump(s)　しこり（ぐりぐり）
+<a href="rensaikiji_medical_i01.php">i01</a>
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+lung cancer　肺癌　はいがん
+<a href="rensaikiji_medical_ha03.php">ha03</a>
+<br>
+lymph gland　リンパ腺　リンパせん
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+lymphocyte　リンパ球　リンパきゅう
+<a href="rensaikiji_medical_me02.php">me02</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+【M】
+<br>
+major operation 大手術　だいしゅじゅつ
+<a href="rensaikiji_medical_ga02.php">ga02</a>
+<br>
+malaise 倦怠感　けんたいかん
+<a href="rensaikiji_medical_ka01.php">ka01</a>
+<br>
+malignant tumor 　悪性腫瘍　あくせいしゅよう
+<a href="rensaikiji_medical_i01.php">i01</a>
+<br>
+mammary gland 乳腺　にゅうせん
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+mammography マンモグラフィー(乳房造影法)（にゅうぼうぞうえいほう）
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+meal 食事　しょくじ
+<a href="rensaikiji_medical_a03.php">a03</a>
+<br>
+measles 麻疹　はしか
+<a href="rensaikiji_medical_mi02.php">mi02</a>
+<br>
+medical bills 医療請求書　いりょうせいきゅうしょ
+<a href="rensaikiji_medical_i04.php">i04</a>
+<br>
+medical check up 精密検査　せいみつけんさ
+<a href="rensaikiji_medical_ke02.php">ke02</a>
+<br>
+medical cost 医療費　いりょうひ
+<a href="rensaikiji_medical_sa01.php">sa01</a>
+<br>
+medical device, medical equipment　医療器具　いりょうきぐ
+<a href="rensaikiji_medical_yo01.php">yo01</a>
+<br>
+medical examination 診察　しんさつ
+<a href="rensaikiji_medical_shi01.php">shi01</a>
+<a href="rensaikiji_medical_ka01.php">ka01</a>
+<br>
+medical insurance 医療保険　いりょうほけん
+<a href="rensaikiji_medical_sa01.php">sa01</a>
+<br>
+medical record 診察記録　しんさつきろく
+<a href="rensaikiji_medical_ka01.php">ka01</a>
+<br>
+MED-SUR SUPPLIES 　医療材料費（請求書に記載の）
+<br>
+いりょうざいりょうひ（せいきゅうしょにきさいの）
+<a href="rensaikiji_medical_i04.php">i04</a>
+<br>
+medicine 薬　くすり
+<a href="rensaikiji_medical_i02.php">i02</a>
+<a href="rensaikiji_medical_ku01.php">ku01</a>
+<a href="rensaikiji_medical_ka02.php">ka02</a>
+<a href="rensaikiji_medical_shi01.php">shi01</a>
+<br>
+medicine to bring down fever 解熱剤　げねつざい
+<a href="rensaikiji_medical_ka02.php">ka02</a>
+<a href="rensaikiji_medical_shi01.php">shi01</a>
+<br>
+melanin メラミン色素　メラミンしきそ
+<a href="rensaikiji_medical_me01.php">me01</a>
+<br>
+meningitis 髄膜炎　ずいまくえん
+<a href="rensaikiji_medical_i03.php">i03</a>
+<br>
+metastasis 転移　てんい
+<a href="rensaikiji_medical_ni02.php">ni02</a>
+<br>
+metropia 遠視　えんし
+<a href="rensaikiji_medical_me01.php">me01</a>
+<br>
+middle of the ear　中耳　ちゅうじ
+<a href="rensaikiji_medical_mi01.php">mi01</a>
+<br>
+migraine 偏頭痛　へんずつう
+<a href="rensaikiji_medical_he01.php">he01</a>
+<br>
+mite　だに
+<a href="rensaikiji_medical_shi08.php">shi08</a>
+<br>
+molar　奥歯　おくば
+<a href="rensaikiji_medical_i02.php">i02</a>
+<br>
+mole(s) 黒子　ほくろ
+<a href="rensaikiji_medical_me01.php">me01</a>
+<a href="rensaikiji_medical_bi01.php">bi01</a>
+<br>
+morning sickness つわり
+<a href="rensaikiji_medical_ni01.php">ni01</a>
+<br>
+morning stiffness 朝のこわばり　あさのこわばり
+<a href="rensaikiji_medical_ka03.php">ka03</a>
+<br>
+mucosa, mucous membrane 粘膜　ねんまく
+<a href="rensaikiji_medical_ko01.php">ko01</a>
+<br>
+mucus 痰　たん
+<a href="rensaikiji_medical_ta01.php">ta01</a>
+<br>
+multi-disciplinary approach　グループで治療にあたるアプローチ
+<br>
+グループでちりょうにあたるアプローチ
+<a href="rensaikiji_medical_yo01.php">yo01</a>
+<br>
+multi-vitmin supplement, multi-mineral supplement 総合ビタミン剤　
+<br>
+そうごうビタミンざい
+<a href="rensaikiji_medical_e02.php">e02</a>　
+<br>
+muscle 筋　きん　筋肉　きんにく
+<a href="rensaikiji_medical_ki01.php">ki01</a>
+<br>
+muscle ache, muscle pain 筋肉痛　きんにくつう
+<a href="rensaikiji_medical_ki01.php">ki01</a>
+<a href="rensaikiji_medical_f01.php">f01</a>
+<br>
+muscular dystrophy 筋ジストロフィー　きんジストロフィー
+<a href="rensaikiji_medical_ki01.php">ki01</a>
+<br>
+muscular type, muscular person 筋肉質の人　きんにくしつのひと
+<a href="rensaikiji_medical_hi02.php">hi02</a>
+<br>
+myasthenia 筋無力症　きんむりょくしょう
+<a href="rensaikiji_medical_ki01.php">ki01</a>
+<br>
+myocardial infarction 心筋梗塞　しんきんこうそく
+<a href="rensaikiji_medical_ro01.php">ro01</a>
+<a href="rensaikiji_medical_ki02.php">ki02</a>
+<a href="rensaikiji_medical_chi01.php">chi01</a>
+<br>
+myopia 近視　きんし
+<a href="rensaikiji_medical_ke03.php">ke03</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+【N】
+<br>
+name of patient 患者氏名　かんじゃしめい
+<a href="rensaikiji_medical_ga02.php">ga02</a>
+<br>
+nasal mucus 鼻水　はなみず
+<a href="rensaikiji_medical_ku02.php">ku02</a>
+<a href="rensaikiji_medical_ka01.php">ka01</a>
+<br>
+natural foods 自然食品　しぜんしょくひん
+<a href="rensaikiji_medical_e02.php">e02</a>
+<br>
+nausea 吐き気　はきけ　むかつき
+<a href="rensaikiji_medical_ni01.php">ni01</a>
+<a href="rensaikiji_medical_i01.php">i01</a>
+<a href="rensaikiji_medical_su01.php">su01</a>
+<a href="rensaikiji_medical_shi09.php">shi09</a>
+<a href="rensaikiji_medical_a02.php">a02</a>
+<br>
+nearsightedness 近視　きんし
+<a href="rensaikiji_medical_ke03.php">ke03</a>
+<br>
+neck 首　くび
+<a href="rensaikiji_medical_ha01.php">ha01</a>
+<br>
+neck brace 首のサポーター　くびのサポーター
+<a href="rensaikiji_medical_hu02.php">hu02</a>
+<br>
+nephrosis ネフローゼ
+<a href="rensaikiji_medical_ji02.php">ji02</a>
+<br>
+nerve 神経　しんけい
+<a href="rensaikiji_medical_shi02.php">shi02</a>
+<br>
+nervous twitch 神経性痙攣　しんけいせいけいれん
+<a href="rensaikiji_medical_shi02.php">shi02</a>
+<br>
+neuralgia 神経痛　しんけいつう
+<a href="rensaikiji_medical_shi02.php">shi02</a>
+<br>
+neuroparalysis 神経麻痺　しんけいまひ
+<a href="rensaikiji_medical_shi02.php">shi02</a>
+<br>
+neurosurgeon （脳）神経外科医　（のう）しんけいげかい
+<a href="rensaikiji_medical_yo01.php">yo01</a>
+<a href="rensaikiji_medical_ku03.php">ku03</a>
+<br>
+neurosurgery （脳）神経外科　（のう）しんけいげか
+<a href="rensaikiji_medical_ku03.php">ku03</a>
+<br>
+neurotic gastritis 神経性胃炎　しんけいせいいえん
+<a href="rensaikiji_medical_hu01.php">hu01</a>
+<br>
+neutral fat 中性脂肪　ちゅうせいしぼう
+<a href="rensaikiji_medical_chi01.php">chi01</a>
+<br>
+newborn 新生児　しんせいじ
+<a href="rensaikiji_medical_ni01.php">ni01</a>
+<br>
+nicotine ニコチン
+<a href="rensaikiji_medical_ta01.php">ta01</a>
+<br>
+nicotinism ニコチン中毒　ニコチンちゅうどく
+<a href="rensaikiji_medical_ta01.php">ta01</a>
+<br>
+nipple 乳首　ちくび
+<a href="rensaikiji_medical_shi03.php">shi03</a>
+<br>
+nocturia 夜間尿　やかんにょう
+<a href="rensaikiji_medical_ze01.php">ze01</a>
+<br>
+nonsense ちんぷんかんぷん
+<a href="rensaikiji_medical_ke01.php">ke01</a>
+<br>
+non-smoking car 禁煙車　きんえんしゃ
+<a href="rensaikiji_medical_ta01.php">ta01</a>
+<br>
+nutrition 栄養　えいよう
+<a href="rensaikiji_medical_e02.php">e02</a>
+<br>
+nutritional balance 栄養のバランス　えいようのバランス
+<a href="rensaikiji_medical_a03.php">a03</a>
+<br>
+<span class=navsub3><a href="#top">- Back to top -</a></span>
+<br><br>
+<img src='rensaikiji_medicalmanga_yotomi.jpg' alt='陽と美' width='200' height='332'>
+<br><br>
+<img src='rensaikiji_medicalmanga_facenorman.jpg' alt='Norman' width='65' height='74'>
+<img src='rensaikiji_medicalmanga_facemichiko.jpg' alt='Michiko' width='65' height='74'>
+<img src='rensaikiji_medicalmanga_faceyoko.jpg' alt='Yoko' width='65' height='74'>
+<br><br>
+Check back for new additions in the future!
+<br><br><br>
+<div class=navsub3 style="text-align:center;">
+<a href="rensaikiji_medical.php"><あ〜か＞</a>, <a href="rensaikiji_medical2.php">＜さ〜な＞</a>, <a href="rensaikiji_medical3.php">＜は〜わ＞</a>, <a href="rensaikiji_medical4.php">＜A〜G＞</a>, ＜H〜N＞, <a href="rensaikiji_medical6.php">＜O〜Z＞</a>
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>
