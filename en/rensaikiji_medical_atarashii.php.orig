@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 新しい動き</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expressions　<あ〜か></a> 
+</div>
+<br>
+<b>What's new in American Health Field　米国健康事情</b>
+<br><br>
+March 2013
+<br><br>
+<b>Hand hygiene　手の衛生</b>
+<br>
+<img src='rensaikiji_medicalmanga_hand.jpg' alt='手の衛生' width='336' height='250' align='right'>
+<br>
+近年の健康医療分野における変化のうちとりわけ目立つのは、容器に入ったalcohol-hand-rubを病院クリニックに限らず人の集まるところはどこでも見かける事です（出典: Hands Across America by David Owen, The new Yorker  March 4 ,2013）。
+<br><br>
+米国においては毎年、約２百万件の院内感染が報告されていますが、これは患者２０人に一人が院内感染する割合となります（患者数約１５０万人,出典同上）。院内感染はしばしば難治で致命的です（死亡例数約１０万、出典同上）。院内感染の最も効果的な予防法は手の清浄（hand hygiene）にあります。医療分野で働く人は手の清浄に努めなければなりません。更に、患者自身もhand hygiene に心がける必要があります。2002年以降、CDC(the Centers for Disease Control and Prevention)はWHO や他の保険機関と共同でHand Hygiene Guidelineを公表してHand Hygieneの徹底につとめています（出典: CDC web site）。
+<br><br>
+如何に手の清浄を保つかが重要な点ですが、最良とされる流水と石けんでの手洗いは、忙しい職場ではつい後回しになりがちで、又、水道設備に欠ける所もあり、実行困難な面があります。この欠点を補う方法として注目されてきたのがalcohol-based hand sanitizers or alcohol-hand-rub dispensersです。この清浄剤は最低６０％のアルコールを含み、使用後手の病原菌数を直ちに減少しますが、すべての病原菌を除去するわけではありませんし、手の汚染がひどい場合は、やはり最初に水洗する必要があります(出典: CDC web site)。
+<br><br> 
+One of the most conspicuous changes in health care in recent years has been the proliferation of alcohol-hand-rub dispensers in hospitals and doctors’ offices. (source: Hands Across America by David Owen, The New Yorker   March 4, 2013)
+<br><br> 
+In the United States, hospital patients get nearly 2 million infections each year. That’s about 1 infection for every 20 patients (CDC), or more than a million and a half patient illnesses (by D. W. above).  Infections that patients get in the hospital can be life-threatening and hard to treat, or nearly a hundred thousand patient deaths (by D. W. above). Hand hygiene is one of the most important ways to prevent the spread of infection.  Healthcare providers should practice hand hygiene, and patients can play a role in helping to prevent infection by practicing hand hygiene themselves.  Since 2002, the CDC, in conjunction with WHO (2009) and other health organizations, published Guidelines for Hand Hygiene in Healthcare Settings. (source: CDC)
+<br><br>
+The key is how to maintain hand hygiene.  Although washing hands with soap and clean, running water is still the best way, it is often difficult in practice at busy clinical settings and in many parts of the world where clean, running water is not accessible. The hand cleaning method that has attracted attention as a supplement to the soap-and water is alcohol-based hand sanitizer, or alcohol-hand rub that contains at least 60% alcohol to clean hands. Alcohol-based hand sanitizers can quickly reduce the number of germs on the hand, but sanitizers do not eliminate all types of germs.  If hands are heavily soiled, they must be washed first with running water. (source: CDC)
+<br><br><br>
+August 2010
+<br><br>
+<b>Orthorexia nervosa　オートレキシア　ネルボーザ</b>
+<br><br>
+I understand that orthorexia nervosa is a term implying a type of eating disorders. Can you explain it?
+<br>
+Orthorexia nervosa（オートレキシア　ネルボーザ）は、ある種の摂食障害をさす用語と聞きました。説明して下さい。
+<br><br>
+The term was coined in 1997 by Dr. Steven Bratman in Colorado. The Greek orthos means correct or right and orexis means appetite.
+<br>
+この用語は１９９７年にコロラド州のブラットマン医師により造られました。ギリシャ語でorthosは、correct, right（正しい）を意味し、orexisは、appetite（食欲）を意味します。
+<br><br>
+Thus, orthorexia means a correct appetite. But, when a word nervosa is added, it denotes an eating disorder characterized by the obsession with healthy foods.
+<br>
+Orthorexiaは正しい食欲となりますが、これにnervosa（神経症）をつける事により、本人が正しい食べ物と信じるいわゆる健康食品のみを食べることにこだわる摂食障害を指します。
+<br><br>
+People with orthorexia nervosa believe that fat, preservatives, man-made food or animal product should be avoided, and eat only fruits and vegetables. An extreme case leads to malnutrition or even death.
+<br>
+脂肪、防腐剤、加工食品あるいは動物由来の食品は不健康で避けるべきだと信じて果物と野菜だけを食べます。症状がひどくなると、栄養障害、ひいては死亡に至ります。
+<br><br>
+Because they limit what they can eat, they spend less and less time with family and friends, isolating themselves socially.
+<br>
+食べられるものが制限されますから、他人との付き合いもなくなり、社会的に孤立した生活となります。
+<br><br>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

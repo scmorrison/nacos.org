@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: ドアの下から入れておきます</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi2.php>どぎまぎ　＜さ〜た＞</a> >
+ドアの下から入れておきます
+</div>
+<br>
+<b>ドアの下から入れておきます。</b> 
+<br>
+I will put it under the front door. In the states, the mailbox belongs to the government. If you put something in the mailbox, the carrier could take it away. If you want to drop off something for your friend, you should put it under the door, under the mat or somewhere you both agree to. In the mailbox, you take the risk of having the carrier take it. Letters that can't be delivered are sent to S.F. and kept in a dead letter department for awhile. So it's important to make sure you've got the right address and to put a return address in case it can't be delivered.
+<br><br>
+ちょっとした伝言をメモにして、知り合いのアパートの郵便受けに差し込んでおく、日本でなら、こんなことは日常茶飯事のことですが、当地のアパートの郵便受けには鍵がかかっており、郵便配達の人かそこの住人しか開けられません。不便なことだと感じていました。ところが先日、鍵がかかっていないもの（例えば一軒屋の郵便受け）でも一般の人が手紙やちらし等を入れるのは違法だと聞き驚きました。
+<br><br>
+例えば、友人宅に映画のチケットなどを届ける際、封筒に入れて友人宅の郵便受けに入れるのは違法なことです。もっとも違反に対して罰金などはありません。郵便局に問い合わせてみると、こんな法律ができたのは、おそらく、郵便受けは個人のものではなく、連邦政府の管理するものというところから来ているとのこと。それぞれの郵便受けには、連邦政府のしるしが付いています。そうとは言え、私は夜遅くとか、朝早くとか、友人宅の郵便受けに届け物を入れることはありました！しかし、郵便配達の人がそれを郵便局に持ち帰り、宛名などが十分に書かれていないと、Dead lettersとして一括してサンフランシスコに送られ処分されてしまうこともあり得ますから注意が必要です。やはり、入り口の扉の下などから差し込むやり方の方が無難でしょう。
+<br><br>
+入り口の扉の下から入れておきます。
+<br>
+I will put it under the front door.
+<br>
+I will slide it under the front door. 
+<br><br>
+<img src='rensaikiji_dogi174.jpg' alt='ドアの下から入れておきます' width='200' height='347'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

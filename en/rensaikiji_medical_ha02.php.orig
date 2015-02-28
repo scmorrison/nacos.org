@@ -1,0 +1,181 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: はげ</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical3.php>Medical Expressions　<は〜わ></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+alopecia areata　円形脱毛症　えんけいだつもうしょう
+<br>
+baldness　はげ
+<br>
+dermatology　皮膚科　ひふか
+<br>
+dermatologist　皮膚科医　ひふかい
+<br>
+gray hair, white hair　白髪　しらが
+<br>
+hair loss　抜け毛　ぬけげ
+<br>
+premature baldness　若はげ　わかはげ
+<br>
+prematurely gray hair　若白髪　わかしらが
+<br><br>
+<img src='rensaikiji_medicalmanga_hage.jpg' alt='はげ' width='300' height='233'>
+<br><br>
+My hair has been thinning since my late twenties.
+<br>
+２０代後半から、だんだん髪の毛が薄くなってきました。
+<br>
+２０だいこうはんから、だんだん　かみのけがうすくなってきました。
+<br>
+<br>
+Is there anything that can be done to delay the process?
+<br>
+何とか少しでも進行をおさえたいのですが・・・
+<br>
+なんとかすこしでも　しんこうをおさえたいのですが・・・
+<br>
+<br>
+My father was also prematurely bald. Is it hereditary?
+<br>
+父も早くからはげていました。やはり、体質的に遺伝したのでしょうか。
+<br>
+ちちも　はやくからはげていました。やはり、たいしつてきにいでんしたのでしょうか。
+<br>
+<br>
+I developed <b>alopecia areata</b> after severe psychological trauma.
+<br>
+あることで精神的に強いショックを受けて、<b>１０円はげ</b>ができてしまいました。
+<br>
+あることでせいしんてきにつよいショックをうけて<b>１０えんはげ</b>ができてしまいました。
+<br>
+<br>
+I have a lot of <b>white hair</b> from the medication I am taking.
+<br>
+ある病気のために服用した薬の副作用で、<b>白髪</b>がどっと出てきました。
+<br>
+あるびょうきのために　ふくようしたくすりの　ふくさようで、<b>しらが</b>が　どっと　でてきました。
+<br>
+<br>
+Can it be treated without taking drugs?
+<br>
+できるだけ薬を服用せずに治したいのですが。
+<br>
+できるだけ　くすりをふくようせずに　なおしたいのですが。
+<br>
+<br>
+It may be because of a hormonal imbalance.
+<br>
+ホルモンのバランスが崩れています。
+<br>
+ホルモンのバランスがくずれています。
+<br><br>
+<b>A conversation between a patient and a doctor about baldness</b>
+<br>
+<i>Patient:</i>
+<br>
+A friend of mine is grieved saying that although he is in his mid-thirties, his forehead is balding and hair all over the head is thinning. My husband’s hair turned white in his forties. Is there any relationship between baldness or grey hair and hereditary or stress?
+<br><br>
+友人が、３０代半ばだというのに額の髪の毛がはげ上がり、全体的に薄くなってきたと言っては嘆いています。また、夫は４０代で、すでに髪の毛が真っ白になりました。遺伝やストレスなどに因果関係があるのでしょうか？
+<br><br>
+<i>Doctor:</i>
+<br>
+Hair (scientific name: thrix) belongs to the same embryological classification as skin and nails, and consists primarily of protein and various minerals. Although these elements and vitamins are essential for the growth of hair, supplementing these components does not increase hair. <b>Baldness</b> means that the production of hair in the hair follicle has ceased.  Aging, evolution and male hormone affect closely to cause this cessation of growth. Aging of hair follicles begins at the end of the -teen years, in some people, and in the sixties in others. It is said that as humans evolved, hair was not needed for protection. Thus, humans lost hair, including thrix. <b>Baldness</b> does not occur without male hormone. Females (particularly in old age) also lose hair due to the effect of male hormone. However, <b>premature baldness</b> generally refers to that in males (male pattern baldness). While the cause of <b>alopecia areata</b> remains unclear, as it occurs under severe stress, the association of blood flow and immunity are thought to play a role. Alopecia areata is cured naturally, but steroids are said to be effective. When hair loses pigment (melanin), <b>white hair</b> appears, and the factor of hereditary plays a strong role. <b>Hair loss</b> also occurs in various diseases. You should consult a <b>dermatologist</b>.
+<br><br>
+毛髪は発生学上、皮膚や爪と同じ分類に属します。主として蛋白から成り立ち、その他各種のミネラルが含まれています。ビタミンも毛髪の成育に不可欠です。しかし、これらの成分を補給しても、毛髪が増加するというものではありません。<b>はげる (baldness)</b> という事は、毛嚢での毛髪の製造が止まった結果なのですが、これには老化、進化、それに男性ホルモンが深く関係しています。毛嚢の老化は、早い人で１０歳の終わりに始まり、遅い人では６０歳になってからと、かなり幅があります。人間が進化するにつれて、身体を保護する毛髪が必要でなくなり、頭の毛も失うようになったとされています。男性ホルモンなしに、<b>はげ</b>は起こりません。しかし、女性も男性ホルモンの影響を受けて（特に高齢者）はげますが、 <b>若はげ</b>といえば、男性のそれを指します。（male pattern baldness)。<b>円形脱毛症</b>の原因は、はっきり分かっていませんが、強いストレスを受けた時にも起こることから、血流の変化や免疫の関連も考えられています。自然に治りますが、ステロイドが有効とされています。<b>白髪</b>は、毛髪の色素（melanin) が失われた状態です。これも遺伝が強く関係しています。上に述べた他に各種の疾患の為に<b>抜け毛</b>が起こります。<b>皮膚科医</b>にご相談なさってください。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+" Gray hair is the splendor of the old. " (prov.20:29)
+<br>
+Baldness is the proof of evolution!
+<br>
+<div style="text-align:right;">
+[ha02]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

@@ -1,0 +1,187 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: ピロリ菌</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expessions　<あ〜か＞</a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+abdominal pain　腹痛　ふくつう
+<br>
+antibacterial　抗菌性の　こうきんせいの
+<br>
+duodenal ulcer　十二指腸潰瘍　じゅうにしちょうかいよう
+<br>
+epigastric pain　上腹部痛　じょうふくぶつう （胃のあたり　いのあたり）
+<br>
+gastritis　胃炎　いえん
+<br>
+gastric acid　胃酸　いさん
+<br>
+gastric ulcer　胃潰瘍　いかいよう
+<br>
+gastroenterologist　胃腸病専門医　いちょうびょうせんもんい
+<br>
+gastroenterology　胃腸病学　いちょうびょうがく
+<br>
+Helicobacter pylori　ピロリ菌　ピロリきん
+<br>
+ulcer　潰瘍　かいよう
+<br><br>
+<img src='rensaikiji_medicalmanga_pirori.jpg' alt='イライラ' width='300' height='250'>
+<br><br>
+When I experience something unpleasant, my stomach starts to hurt.
+<br>
+何かいやなことがあると、胃のあたりがシクシク痛みます。
+<br>
+なにかいやなことがあると、いのあたりがシクシクいたみます。
+<br>
+<br>
+I don't feel any pain in my stomach when things go well or when I am doing what I like.
+<br>
+ことがうまく運んだり、自分の興味のあることに集中している時には、痛みを感じないのですが。
+<br>
+ことがうまくはこんだり、じぶんのきょうみのあることにしゅうちゅうしているときには、いたみをかんじないのですが。
+<br>
+<br>
+I've never had a sharp pain in my stomach, but I feel heaviness in my stomach when I'm in a stressful situation or I'm irritated.
+<br>
+刺すような激しい痛みは、今までに一度もありませんが、緊張したり何かにイライラすると胃が重たい感じになります。
+<br>
+さすようなはげしいいたみは、いままでにいちどもありませんが、きんちょうしたりなにかにイライラすると　いがおもたいかんじになります。
+<br>
+<br>
+Is it called neurotic <b>gastritis</b>?
+<br>
+神経性<b>胃炎</b>でしょうか。
+<br>
+しんけいせい<b>いえん</b>でしょうか。
+<br>
+<br>
+I tend to worry a lot and want to make sure everything is alright.
+<br>
+性格的には、細かいことを気にするタイプで、心配性です。
+<br>
+せいかくてきには、こまかいことをきにするタイプで、しんぱいしょうです。
+<br>
+<br>
+I have gastric pain when I am hungry, which happens every 3 hours.
+<br>
+お腹がすくと、胃が痛み出します。３時間おき位に空腹感があります。
+<br>
+おなかがすくと、いがいたみだします。３じかんおきくらいに　くうふくかんがあります。
+<br>
+<br>
+I try to eat yogurt at that time.
+<br>
+そんな時には、ヨーグルトを食べるようにしています。
+<br>
+そんなときには、ヨーグルトをたべるようにしています。
+<br><br><br>
+<b>A conversation between a patient and a doctor about Helicobacter pylori</b>
+<br>
+<i>Patient:</i>
+<br>
+<b>Helicobacter pylori</b> is said to play a role in the development of cancers, such as stomach cancer. As I have heard that chewing gum containing mint is <b>antibacterial</b>, or works against bacteria, including Helicobacter pylori, I often chew gum lately.
+<br><br>
+<b>ピロリ菌</b>という細菌は、胃がんなど、がん成長の促進作用をするそうですね。ミント系のガムがピロリ菌などに強い<b>抗菌力がある</b>、ということを聞きましたので、最近、よくガムをかんでいます。
+<br><br>
+<i>Doctor:</i>
+<br>
+<b>Helicobacter pylori</b> is also thought to be one of the causes of chronic gastritis and peptic ulcer. Epidemiological studies found that there was a close relationship between <b>Helicobacter pylori</b> infection and economic status (such as the housing situation and hygienic conditions). Because <b>Helicobacter pylori</b> infection is transmitted mouth to mouth, chewing <b>antibacterial</b> minty gum does make sense. It is said that in order to ameliorate Helicobacter pylori infection, it also is important, in addition to cleanliness, to refrain from smoking and drinking.
+<br><br>
+<b>ピロリ菌（Helicobacter pylori、ヘリコバクター・パイロリ）</b>は、慢性胃炎、消化性潰瘍、胃がん等の原因の一つと考えられています。<b>ピロリ菌</b>による感染は、経済状態（住宅事情、衛生状態）と密接に関係していることが、疫学的調査からわかりました。経口感染として伝播しますから、<b>ピロリ菌</b>に<b>抗菌力がある</b>といわれているミント系ガムをかむことは意味があるといえましょう。又、衛生面に注意すると共に、煙草、アルコール等を控えることも重要と言われています。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+Chewing gum should be sugar free to avoid ingesting excess sugar.
+<br><br>
+ガムは、シュガーフリーにして、過度の糖分を摂取しないようにしましょう。
+<br>
+<div style="text-align:right;">
+[py01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

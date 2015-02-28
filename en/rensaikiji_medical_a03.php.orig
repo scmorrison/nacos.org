@@ -1,0 +1,189 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: アンタイオキシダンツ</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expessions　<あ〜か＞</a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_tabemono.jpg' alt='食べ物' width='252' height='200' align='right'>
+<br>
+antioxidants　アンタイオキシダンツ
+<br>
+antioxidants　酸化防止剤　さんかぼうしざい
+<br>
+a meal　食事　しょくじ
+<br>
+a diet　食餌　しょくじ
+<br>
+cell　細胞　さいぼう
+<br>
+cancer prevention　癌の予防　がんのよぼう
+<br>
+carbohydrate　炭水化物　たんすいかぶつ
+<br>
+eating habit　食習慣　しょくしゅうかん
+<br>
+fat　脂肪　しぼう
+<br>
+nutritional balance　栄養のバランス　えいようのバランス
+<br>
+oxidation, oxidization　酸化　さんか
+<br>
+oxidate, oxidize　酸化する　さんかする
+<br>
+protein　蛋白質　たんぱくしつ
+<br>
+dietary therapy　食事療法　しょくじりょうほう
+<br>
+「食餌療法」を「食事療法」と書き換えられることがあります。
+<br><br>
+Many members in my family died of cancer.
+<br>
+私の家系には癌で亡くなった人が多いんです。
+<br>
+わたしのかけいには　がんでなくなったひとがおおいんです。
+<br>
+<br>
+Since I was a child, my <b>diet</b> has consisted of more meat than vegetables.
+<br>
+小さい頃からどちらかというと、野菜よりも肉中心の<b>食生活</b>です。
+<br>
+ちいさいころからどちらかというと、やさいよりもにくちゅうしんの<b>しょくせいかつ</b>です。
+<br>
+<br>
+My wife is a vegetarian, so after we got married I have had a tendency to eat as little meat as possible. I have noticed that my skin and hair have become lusterless.
+<br>
+結婚後、妻が菜食主義なので、私も肉をひかえめにしたところ、皮膚や髪の毛につやがなくなってきました。
+<br>
+けっこんご、つまが　さいしょくしゅぎなので　わたしも　にくをひかえめにしたところ、ひふやかみのけに　つやがなくなってきました。
+<br>
+<img src='rensaikiji_medicalmanga_ganyobou.jpg' alt='癌の予防' width='194' height='250' align='right'>
+<br>
+My physical condition is getting weak.
+<br>
+体力も落ちてきたような気がします。
+<br>
+たいりょくもおちてきたようなきがします。
+<br>
+<br>
+Is my <b>diet</b> well- balanced?
+<br>
+<b>食事</b>のバランスが悪いんでしょうか。
+<br>
+<b>しょくじ</b>のバランスがわるいんでしょうか。
+<br>
+<br>
+My wife is pretty healthy.
+<br>
+妻はいたって健康です。
+<br>
+つまは　いたってけんこうです。
+<br><br><br>
+<b>A conversation between a patient and a doctor about antioxidants</b>　
+<br>
+<i>Patient:</i>
+<br>
+Recently, I often heard the words “<b>antioxidants</b>” or “free radicals.” They are said to be related to cancer prevention. Can you explain these words in plain expressions?
+<br><br>
+最近、<b>antioxidants（アンタイオキシダンツ）</b>、free radicals (フリーラジカル）という言葉をよく耳にします。癌の予防と関係あるといわれています。やさしい表現を使って説明してくださいますか。
+<br><br>
+<i>Doctor:</i>
+<br>
+The body obtains necessary energy by oxidizing carbohydrate, fat and protein. In the process, free radicals are produced.  Free radicals are unstable substance and when they invade cells, they change the character of cells, leading to cancer development. <b>Antioxidants</b> fight against free radicals. Many fruits and vegetables contain high amount of <b>antioxidants</b>. Vitamin A, C and E and b-carotene are <b>antioxidants</b>. As molecular biology continues to advance, more things will be elucidated.
+<br><br>
+身体は、必要とするエネルギーを、炭水化物、脂肪、蛋白質を酸化することによって得ています。酸化の過程でフリーラジカルが形成されます。このフリーラジカルは不安定な物質で、身体の細胞に侵入して細胞の性格を変えてしまい、つまるところ癌の発生につながります。<b>アンタイオキシダンツ</b>は、このフリーラジカルをおさえ込み対抗します。多くの果物や野菜類は<b>アンタイオキシダンツ</b>を多く含みます。ビタミンA、C、E、ベータカロチンは、<b>アンタイオキシダンツ</b>です。分子生物学の発達で、これからも多くの事がわかってくると期待されます。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+Eat a well-balanced meal with lots of fresh fruits and vegetables.
+<br><br>
+結局、新鮮な物をバランスよく食べることが大切だということには変わりありません。
+<br>
+<div style="text-align:right;">
+[a03]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

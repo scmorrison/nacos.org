@@ -1,0 +1,183 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 心拍</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical2.php>Medical Expressions　<さ〜な></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_hiyaase.jpg' alt='冷や汗' width='200' height='150' align='right'>
+<br>
+heart beat　心拍　しんぱく
+<br>
+irregular pulse　脈拍の乱れ　みゃくはくのみだれ
+<br>
+<br>
+I've had some irregular heartbeats.
+<br>
+脈に乱れがあります。
+<br>
+みゃくに　みだれがあります。
+<br>
+<br>
+When did you first notice an irregular heartbeat?
+<br>
+脈の乱れに、最初に気づいたのは、いつですか。
+<br>
+みゃくのみだれに、さいしょにきづいたのは、いつですか。
+<br>
+<br>
+Do they last long or only for a short time?
+<br>
+長く続きますか、それとも、ほんの短い間ですか。
+<br>
+ながくつづきますか、それとも、ほんのみじかいあいだですか。
+<br>
+<br>
+I noticed it when I lay down at night.
+<br>
+夜、就寝時に気が付きます。
+<br>
+よる、しゅうしんじに　きがつきます。
+<br>
+<br>
+I felt my chest pounding when I drive on the freeway.
+<br>
+フリー・ウェイで車を運転している時、胸がドキドキしました。
+<br>
+フリー・ウェイで　くるまをうんてんしているとき、むねがドキドキしました。
+<br>
+<br>
+Do you take any medication regularly?
+<br>
+薬を何か常用していますか。
+<br>
+くすりを　なにかじょうようしていますか。
+<br>
+<br>
+Yes, I've been taking thyroid medicine everyday for a few years.
+<br>
+ここ数年、甲状腺の薬を毎日飲んでいます。
+<br>
+ここすうねん、こうじょうせんのくすりを　まいにちのんでいます。
+<br>
+<br>
+Do you feel any chest pains when you have irregular heartbeats
+<br>
+脈の乱れとともに、胸の痛みがありましたか。
+<br>
+みゃくのみだれとともに、むねのいたみがありましたか。
+<br><br><br>
+<b>A conversation between a patient and a doctor about irregular pulse</b>
+<br>
+<i>Patient:</i>
+<br>
+There are times when I suddenly feel palpitation or have arrhythmia, making me nervous. If it happens at night when everything is quiet, I can’t sleep because of worries. What causes irregular heartbeats?
+<br><br>
+激しい運動中でもないのに、急に胸がドキドキしたり、心拍数が乱れて、「おやっ！」と、不安になる時があります。特に夜間、まわりが静かになると余計に気になり寝付かれないと云う事もあります。原因があるとすると、どこから来るのですか？
+<br><br>
+<i>Doctor:</i>
+<br>
+We become conscious of respiration and heartbeat only when there are some abnormalities. Statistically, it is said that one in every 5 healthy male adults experiences abnormal heartbeats at least once a day. While heartbeat is controlled by the conduction system in the heart, any of the following contributes to the mechanism of arrhythmia (irregular heartbeats); the autonomic nervous system, neuroendocrine system, myocardial ischemia, drugs and hemodynamic stresses. For those people who’ve been taking drugs for thyroid disease, diabetes mellitus or asthma, it is important to follow the physician’s instructions. If you have experienced arrhythmia, it is recommended to consult a cardiologist.
+<br><br>
+呼吸や脈拍は、何か異常があって初めて意識にのぼるものです。統計的には健康な成人男子の５人に１人は、少なくとも、一日に一回は心拍の異常を経験すると言われています。心拍数をつかさどるのは心臓の伝導系ですが、不整脈（心拍数の乱れ）の発生には自律神経系、神経内分泌系、心筋虚血、薬物、循環動態ストレスなどが複雑にからんでいます。甲状腺の病気、糖尿病、喘息などで、長期にわたって薬を服用している方は、医師の指示に従うことが肝要です。不整脈の自覚があれば、ともかく、心臓専門医に診てもらうことが重要です。
+<br><br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+When we encounter things unexpectedly and are startled, it is expressed “My heart skipped a beat.”
+<br>
+For the purpose of finding accurately how arrhythmias occur, patients are told to wear the Holter EKG for 24 hours. The device processes electronically various information concerning heartbeats. “Seeing is believing.”
+<br><br>
+思いがけない事に出会って「あーっ、驚いた！」と、胸がドキッとする時の表現として、"My heart missed a beat."　「脈が飛んだ」と云うのがあります。
+<br>
+不整脈の起こり方を正確に知る目的で、電池付きの心電図計（Holter EKG）を２４時間携帯するように指示されることがあります。一日の総脈拍数を含めて、あらゆる情報がコンピューターで処理されます。百聞は一見にしかずと云う訳です。　Seeing is believing.
+<br><br>
+<img src='rensaikiji_medicalmanga_shinpaku.jpg' alt='ドキドキ' width='250' height='181'>
+<br>
+<div style="text-align:right;">
+[shi05]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

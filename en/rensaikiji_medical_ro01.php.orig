@@ -1,0 +1,173 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 老化現象</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical3.php>Medical Expressions　<は〜わ></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_rouka.jpg' alt='脳梗塞' width='189' height='250' align='right'>
+<br>
+a sign of aging　老化現象　ろうかげんしょう
+<br>
+arteriosclerosis　動脈硬化　どうみゃくこうか
+<br>
+blood flow　血行　けっこう
+<br>
+blood circulation　循環　じゅんかん
+<br>
+cardiac infarction, myocardial infarction
+<br>
+心筋梗塞　しんきんこうそく
+<br>
+cerebral infarction　脳梗塞　のうこうそく
+<br>
+stenosis　狭窄　きょうさく
+<br>
+tinnitus (ringing in the ears)　耳鳴り　みみなり
+<br><br>
+I have suffered recently from <b>ringing in my ears</b>.
+<br>
+このところ<b>耳鳴り</b>に悩まされています。
+<br>
+このところ　<b>みみなり</b>になやまされています。
+<br>
+<br>
+The ringing in my ears gets worse and makes a "Zee" sound when I listen to running water. The ringing is synchronized to the sound of the water.
+<br>
+水道水の流れる音を聞くと耳鳴りがジィーとひどくなり、まるで共鳴しているようです。
+<br>
+すいどうすいのながれるおとをきくと　みみなりがジィーとひどくなり、まるできょうめいしているようです。
+<br>
+<br>
+Listening to loud noises all the time will cause <b>tinnitus</b>.
+<br>
+うるさい音を長時間聞くと、<b>耳鳴り</b>の原因になります。
+<br>
+うるさいおとを　ちょうじかんきくと、<b>みみなり</b>のげんいんになります。
+<br>
+<br>
+Is it a mild <b>cerebral infarction</b>?
+<br>
+軽い<b>脳梗塞</b>でしょうか。
+<br>
+かるい<b>のうこうそく</b>でしょうか。
+<br>
+<br>
+Nicotine in tobacco causes arteries to constrict.
+<br>
+煙草に含まれるニコチンは、動脈の狭窄を起こします。
+<br>
+たばこにふくまれるニコチンは、どうみゃくのきょうさくをおこします。
+<br><br>
+<img src='rensaikiji_medicalmanga_suidou.jpg' alt='水道' width='200' height='172'>
+<br><br>
+<b>A conversation between a patient and a doctor about a sign of aging</b>
+<br>
+<i>Patient:</i>
+<br>
+Lately, I just don’t feel well, the neck and shoulder are stiff.  The stiffness finally went away. Then, <b>ringing in the ears</b> has started. When I hear the tap water running, the ear starts ringing as if in resonance. Is it a sign of aging?
+<br><br>
+最近、何となく体調が悪く、肩懲りや首筋の懲りに悩まされました。ようやくそれは治ったのですが、今度は<b>耳鳴り</b>がするようになりました。殊に、水道水が流れる音などを聞くと、それに共鳴するようにジィーと耳鳴りがします。これは老化現象のあらわれでしょうか？
+<br><br>
+<i>Doctor:</i>
+<br>
+<b>Tinnitus (ringing in the ears)</b> occurs in young people as well. As a simple phenomenon, earwax or hair in the external ear canal makes dry noise every time you move your head. Do not try to remove objects in your ears. Instead, you should see an ear, nose and throat specialist. Listening to loud music on a stereo for long hours causes <b>tinnitus</b>. Obstruction of <b>blood flow</b> to the brain also causes tinnitus. When we get old, the wall of arteries hardens, the phenomenon is called arteriosclerosis, which leads to <b>cerebral or cardiac infarction</b>. The obstruction of blood flow can be prevented or reduced. Stop smoking is one type of prevention. Nicotine and other components in tobacco are known enemies of <b>blood flow</b>.
+<br><br>
+<b>耳鳴り</b>は若い方にも起こります。単純な現象としては、耳垢（Earwax）、あるいは、髪の毛が外耳道に存在して、頭を動かすたびにガサガサと音をたてることがあります。しかし、これも、耳鼻咽喉科（Ear-nose-and-throat specialist）で診てもらうことをおすすめします。ステレオをガンガン鳴らして長時間音楽を聴くことも、<b>耳鳴り</b>の原因になります。又、脳への<b>血行</b>が妨げられている場合にも起こります。我々、皆、歳をとると動脈壁が硬化し、血行が大なり小なり妨げられ、<b>脳梗塞、心筋梗塞</b>の原因となるわけですが、転ばぬ先の杖で、予防、あるいは軽くすることは出来ます。その一つが禁煙です。煙草のニコチンや他の成分は、<b>血行</b>にとって大敵であることがわかっています。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+You can keep your mind young by enjoying hobbies or having a friend with whom you can share a dream. It is also important to look yourself in a mirror to make sure that you are not slouching.
+<br><br>
+趣味や仕事に生き甲斐を持ち、夢を語れる友を持つと、いつまでも心は若く保てますね。
+<br>
+また、Stop slouching.　猫背にならないで、などと言われないように、 時々、鏡の前に立ってチェックすることも大切です。
+<br>
+<div style="text-align:right;">
+[ro01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

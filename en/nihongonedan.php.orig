@@ -1,0 +1,172 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: Program Fee</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+					<a class=navSub href=nihongotorikumikata.php>Approach</a>
+					<a class=navSub href=nihongokeizoku.php>Lesson Timeline</a>
+					<a class=navSub href=nihongoshitsumon.php>Q & A</a>
+                                <a class=navSub href=nihongokenshuukoe.php>Testimonials</a>
+					<a class=navSub href=nihongonedan.php>Program Fee</a>
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<img src='nihongonedan_japaneseprogramfee.png' alt='Japanese Program Fee' width='500' height='45'>
+<br><br>
+Japanese Program Fee - 2013
+<br>
+<img src='nihongonedan_mangotree.jpg' alt='マンゴー' width='200' height='150' align='right' style='margin-left:10px;'>
+<br>
+<b>(M) Monthly Continuous Lessons - 80 minutes each</b>
+<br>
+<i>1 or 2 students per class is ideal.</i>
+<ul style="margin-top:0px;">
+<li>16 lessons: $475</li>
+<li>8 lessons: $250</li>
+<li>4 lessons: $130</li>
+<li>2 lessons: $70</li>
+</ul>
+Time: Mornings, Afternoons, Evenings
+<br>
+<a href="http://nacos.org/en/payments.php#pay_m">Pay via PayPal</a>
+<br><br>
+<b>(S) Skype Lessons for Remote Learners</b>
+<br>
+Course:<br>
+<ul style="margin-top:0px;">
+<li>Interview where we collect 3-5 of your personal short stories, which we will translate into elegant Japanese from which you will learn.</li>
+<li>Twelve 40-minute lessons where we will dive into Japanese at your own level.</li>
+<li>Continue learning Japanese with the NACOS method through 20-minute or 40-minute lessons.</li>
+</ul>
+<b><i>Twelve Initial Lessons - 40 minutes each</i></b>
+<ul style="margin-top:0px;">
+	<li>Individual: $345 USD</li>
+	<li>Family (2 family members together): $415 USD</li>
+</ul>
+<b><i>Continuing Lessons - 20 or 40 minutes each</i></b>
+<ul style="margin-top:0px;">
+<li>20 minutes @ 8 lessons per month:
+	<ul style="margin-top:0px;">
+	<li>Individual: $80 USD</li>
+	<li>Family: $100 USD</li>
+	</ul>
+	</li>
+<li>40 minutes @ 8 lessons per month:
+	<ul style="margin-top:0px;">
+	<li>Individual: $150 USD</li>
+	<li>Family: $190 USD</li>
+	</ul>
+	</li>
+</ul>
+<a href="http://nacos.org/en/payments.php#pay_s">Pay via PayPal</a>
+<br>
+<span style="font-size:smaller;">
+* All lesson prices include translations (students learn phrases from their own stories in Japanese), lessons, tax, and processing fees.
+<br>
+* With advance notice, sessions can be rescheduled within two weeks. No refunds.﻿ 
+</span>
+<br><br>
+<b>(C) Company or Homeschool Japanese Program</b>
+<br>
+<i>4 students per class.</i>
+<ul style="margin-top:0px;">
+<li>Six 80-minute lessons: $650</li>
+</ul>
+Time: Mornings, Afternoons, Evenings 
+<br>
+<a href="http://nacos.org/en/payments.php#pay_c">Pay via PayPal</a>
+<br><br>
+<span style="font-size:smaller;">
+* All fees includes lessons, tax, and translation of stories the students will write (students learn phrases from their own stories in Japanese), as well as the development and maintenance of each  student’s homepage in the “Nagaya” section of the NACOS website.
+<br>
+* If student is absent with reason (illness, emergency, etc.), a make-up lesson can be scheduled within 30 days at no extra charge. No refunds.
+</span>
+<br><br><br>
+The NACOS method allows you to start at any level.
+<br>
+You can start from the very beginning or resume learning at your present level.
+<br><br>
+<a href="nihongonedan_ourflyer.pdf" target="_new">Our flyer</a>
+<br><br>
+<img src='nihongonedan_toiawase.jpg' alt='お問い合わせ' width='150' height='109' style='margin:5px;'>
+<br><br>
+<b>Please email </b><a href="mailto:nacos@nacos.org">nacos@nacos.org</a><b> us!!</b>
+<br><br>
+<img src='nihongonedan_alicedenwa.jpg' alt='電話' width='206' height='188' style='margin:5px;'>
+<br><br>
+<img src='gheader_nevertoolate.png' alt='Open a new door' width='565' height='25'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

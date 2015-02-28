@@ -1,0 +1,230 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: ものもらい</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical3.php>Medical Expressions　<は〜わ></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+allergic conjunctivitis　アレルギー性結膜炎　アレルギーせいけつまくえん
+<br>
+bacterium, bacteria　バクテリア
+<br>
+conjunctivitis　結膜炎　けつまくえん
+<br>
+eye doctor, ophthalmologist　眼科医　がんかい
+<br>
+eyeball　眼球　がんきゅう
+<br>
+eyelid(upper, lower)　瞼（上まぶた、下まぶた）　まぶた（うわまぶた、したまぶた）
+<br>
+eye patch　眼帯　がんたい
+<br>
+gland(s)　腺　せん
+<br>
+lump　腫れ物　はれもの
+<br>
+secretion, discharge　分泌物　ぶんぴぶつ
+<br>
+sty　ものもらい
+<br>
+The whites of one’s eyes　白眼　しろめ
+<br>
+vision　視力　しりょく
+<br>
+visual field　視野　しや
+<br>
+warm compress　温湿布　おんしっぷ
+<br>
+<img src='rensaikiji_medicalmanga_mabuta.jpg' alt='瞼' width='105' height='250' align='right'>
+<br>
+When I woke up this morning, I noticed my <b>eyelid</b> was red and swollen. 
+<br>
+朝、起きると、<b>まぶた</b>が赤く腫れていました。
+<br>
+あさ、おきると、<b>まぶた</b>があかくはれていました。
+<br>
+<br>
+I felt a <b>lump</b> on it.
+<br>
+何か<b>腫れ物</b>ができたみたいです。
+<br>
+なにか<b>はれもの</b>ができたみたいです。
+<br>
+<br>
+<b>The whites of my eye</b> are also red. 
+<br>
+<b>白眼</b>の部分も赤く充血しています。
+<br>
+<b>しろめ</b>のぶぶんも　あかくじゅうけつしています。
+<br>
+<br>
+My eye is swollen and hurts a little.
+<br>
+目も腫れて、痛みも少しあるので、うっとうしいです。
+<br>
+めもはれて、いたみもすこしあるので、うっとうしいです。
+<br>
+<br>
+I’m not sure whether this is an insect bite or a <b>sty</b>.
+<br>
+虫にさされたのか、<b>ものもらい</b>なのか、よくわかりません。
+<br>
+むしにさされたのか、<b>ものもらい</b>なのか、よくわかりません。
+<br>
+<br>
+I think I scratched my eye while sleeping because it felt itchy.
+<br>
+かゆいので、夜眠っている間に、かきむしったようです。
+<br>
+かゆいので、よるねむっているあいだに、かきむしったようです。
+<br>
+<br>
+I look unsightly and am afraid of meeting people. I don’t want to go out.
+<br>
+顔がみにくくなっているので、外出したくありません。
+<br>
+かおが　みにくくなっているので、がいしゅつしたくありません。
+<br>
+<br>
+Should I wear an <b>eye patch</b>?
+<br>
+<b>眼帯</b>をした方がよいですか？
+<br>
+<b>がんたい</b>をしたほうがよいですか？
+<br>
+<br>
+I can see well, but my <b>visual field</b> seems narrower than usual.
+<br>
+視力は変わらないのですが、ほんの少しだけ<b>視野</b>が狭くなったように感じます。
+<br>
+しりょくはかわらないのですが、ほんのすこしだけ<b>しや</b>がせまくなったようにかんじます。
+<br>
+<br>
+I applied (used) a <b>warm compress</b>.
+<br>
+熱いタオルを目にあてて、<b>温湿布</b>しました。
+<br>
+あついタオルをめにあてて、<b>おんしっぷ</b>しました。
+<br>
+<br>
+Is this <b>lump</b> going to discharge pus and go away?
+<br>
+いずれうみが出て、自然に<b>腫れ</b>がひいてきますか?
+<br>
+いずれうみがでて、しぜんに　<b>はれ</b>がひいてきますか?
+<br>
+<br>
+Is it contagious ?
+<br>
+うつりますか？
+<br><br><br>
+<b>A conversation between a patient and a doctor about a sty</b>
+<br>
+<i>Patient:</i>
+<br>
+When I woke up this morning, my <b>eyelid</b> felt itchy. I was quite surprised to see the eyelid was red and swollen, almost covering the <b>eyeball</b>.
+<br><br>
+朝起きると<b>まぶた</b>にかゆみがあるので、鏡を見ると、<b>眼球</b>にかぶさるように上まぶたが赤く腫れ上がっていてびっくりしました。
+<br><br>
+<i>Doctor:</i>
+<br>
+<b>Conjunctivitis</b> and <b>sty</b> are the eye diseases that everyone often suffers from and recognizes easily, redness of the eye in the former and the swollen <b>eyelid</b> in the latter. <b>Conjunctivitis</b> is caused by either viral or bacterial infection or as an allergic reaction. When eyes become itchy, you scratch them, and then, the <b>eyelids</b> swell up, the case suggests that it began as an allergy, and the infection was added. You should be seen by an <b>eye doctor (ophthalmologist)</b>.
+<br><br>
+眼に関した病気で、誰もがかかりやすいのが、<b>結膜炎（conjunctivitis)</b> と、<b>ものもらい（麦粒腫 sty)</b>です。前者は眼が赤くなる、後者は、<b>まぶた</b>の一部が腫れることで気付きます。<b>結膜炎</b>は、ウィルス・細菌で起きる場合と、ご存じのアレルギー性のものとがあります。眼がかゆくなり<b>まぶた</b>をこすっていて、しばらくして大きく腫れ上がったという場合はアレルギーとして始まり、それに感染が加わった可能性もありますから<b>眼科医</b>に診てもらうことをお薦めします。
+<br><br>
+A <b>sty</b> occurs when glands in the <b>eyelid (meibomian glands and /or Zeis’ glands)</b> are infected. Many of you may have experience a <b>sty</b> that appears in the same place repeatedly when you feel tired. If the swelling of the eyelid subsides after an application of a <b>warm compress</b>, you should realize that this is a signal that the body needs a rest. An <b>eye patch</b> gives bacteria or virus just a right amount of humidity. Eye patches were necessary in the past when no good antibiotics were available.
+<br><br>
+<b>ものもらい</b>は、まぶたにある<b>腺（マイボーム腺、又は、ツアイス腺）</b>が感染しておこります。身体が弱った状態になると、同じ場所に、<b>ものもらい</b>が出来た経験のある方もおありと思います。<b>温湿布</b>で幸い腫れがひいた場合は赤信号がついたと考え、過労を避けるよう気をつけてください。<b>眼帯</b>は、細菌やウィルスに、丁度、適度な温度を与えるだけでなく、良い抗生物質のなかった時代には必要であったわけですね。
+<br><br>
+If you are taking daily herbs as a natural therapy, especially ginkgo biloba, in addition to low dose aspirin for the prevention of arteriosclerosis, you have to know that you may bleed easily. Simple scratching the eyes may lead to red eyes.
+<br><br>
+最近、自然療法とかのブームで、ハーブ類を飲んでいらっしゃる方、特に、GINKGO,BILOBAを毎日飲み、その上、動脈硬化の為にと、アスピリンを毎日飲んでいらっしゃると、血液が溶化しやすくなり、ちょっと眼をこすっただけで、真っ赤になったというケースがありますので、注意してください。
+<br>
+<div style="text-align:right;">
+[mo01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 席に着いてもいいですか</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi2.php>どぎまぎ　＜さ〜た＞</a> >
+席に着いてもいいですか
+</div>
+<br>
+<b>席に着いてもいいですか。</b> 
+<br>
+The other day, Osamu went to dinner with his friend's family. Near the entrance of the restaurant, there were no hostess to seat them. There were only some groups of people standing around. They were just chatting. Osamu was impatient because they had to wait a while. So they peeked into the dining area. They didn't see anyone so they went inside and seated themselves. Osamu felt that the people at the entrance were giving them dirty looks. Americans tend to be more outspoken and will mention their preferences and dislikes. It’s not uncommon to asks for a special table by the window. You might get the table or it might be reserved. We have the saying “ It doesn’t hurt to try.” At a fancy restaurant, you wouldn’t seat yourself. Only at a casual one. If your friend has gone before you, you can say: “I think my friend is inside. May I go look for him?” Then you can go look for them.
+<br><br>
+先日、友人家族とレストランへ行きました。入り口付近には人、案内係りの人（Hostess）はいません。ただ、何組かのグループがいました。みなさん、ゆったりと雑談を楽しんでいます。せっかちな私達は店の中をのぞき込み、空いている席があったので勝手に座り込みました。ふと入り口を見ると、何人かの不機嫌そうな視線がこちらに向けられているのを感じました。そして結局、並び直すことになりました。
+<br><br>
+ファースト・フード・レストラン以外では、通常以下のような表示があります。（ご案内するまで）席に付くのをお待ち下さい。／Please wait to be seated.／そうでない場合には、ご自由にお着き下さい。／Please seat yourself.／ホステスとの会話に必要な会話例をあげてみましょう。ちなみに日本で使われるいわゆるホステスの語は、cocktail waitress (hostess) を使います。
+<br><br>
+自由に席に着いてもいいですか。
+<br>
+May we seat ourselves?
+<br><br>
+窓近く（海側）の席をお願いします。
+<br>    
+May we have a table near the window (ocean)?
+<br><br>     
+あそこの席へ移動したいのですが。
+<br>    
+Can we sit at that table over there?
+<br><br>     
+どのくらい待つ必要がありますか。
+<br>      
+How long do we have to wait? 
+<br><br>
+<img src='rensaikiji_dogi021.jpg' alt='席に着いてもいいですか' width='200' height='348'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

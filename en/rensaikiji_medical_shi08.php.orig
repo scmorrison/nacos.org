@@ -1,0 +1,193 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 虱</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical2.php>Medical Expressions　<さ〜な></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_souji.jpg' alt='掃除' width='217' height='250'  align='right' >
+<br>
+athlete's foot　水虫　みずむし
+<br>
+flea　蚤　のみ
+<br>
+itchy　痒い　かゆい
+<br>
+impetigo　膿痂疹　のうかしん
+<br>
+lice　虱　しらみ
+<br>
+mite　ダニ
+<br>
+ringworm　白癬　はくせん
+<br>
+scabies　疥癬　かいせん
+<br>
+scratch　掻く　かく
+<br><br>
+<img src='rensaikiji_medicalmanga_ponpokodomo.jpg' alt='ポンポコと子供' width='247' height='250'>
+<br><br>
+My daughter says her head is <b>itchy</b> and keeps scratching.
+<br>
+娘が頭が<b>痒い</b>と言って掻き続けています。
+<br>
+むすめが　あたまが<b>かゆい</b>といって　かきつづけています。
+<br>
+<br>
+She is irritated.
+<br>
+イライラしています。
+<br>
+<br>
+I have found nits and <b>lice</b> on my daughter's head.
+<br>
+娘の頭に、虱の卵や<b>虱</b>がいるのを見つけました。
+<br>
+むすめのあたまに、しらみのたまごや<b>しらみ</b>がいるのをみつけました。
+<br>
+<br>
+My son has a red, itchy sore on his arm.
+<br>
+息子の腕に赤く痒い傷があります。
+<br>
+むすこのうでに　あかくかゆいきずがあります。
+<br>
+<br>
+My son says his leg is very <b>itchy</b>.
+<br>
+息子が、足がとても<b>痒い</b>と言っています。
+<br>
+むすこが、あしがとても<b>かゆい</b>といっています。
+<br>
+<br>
+Our cat has <b>fleas</b>. Can we get them?
+<br>
+私たちの猫に<b>蚤</b>がいます。人にうつるでしょうか。
+<br>
+わたしたちのねこに<b>のみ</b>がいます。ひとにうつるでしょうか。
+<br>
+<br>
+Apply this lotion to hair like shampoo. Make suds into a lather and leave it on for 2 minutes and then rinse.
+<br>
+シャンプーと同じように髪に落とし、よく泡をたてて、２分間そのままにして、よくリンスしてください。
+<br>
+シャンプーとおなじようにかみにおとし、よくあわをたてて、２ふんかんそのままにして、よくリンスしてください。
+<br><br>
+<b>A conversation between a patient and a doctor about lice</b>
+<br>
+<i>Patient:</i>
+<br>
+I heard that someone’s child was infected with <b>lice</b> at school, and the incident is said to be not unusual.
+<br><br>
+子供が学校から<b>虱（しらみ）</b>を移されてきたという話を聞きましたが、珍しことではないそうですね。
+<br><br>
+<i>Doctor:</i>
+<br>
+I assume that not a few people were surprised to learn that their children were infected with <b>lice</b>. In Hawaii, you often hear, in addition to <b>lice</b>, skin diseases such as <b>scabies</b>, <b>impetigo</b> and <b>ringworm</b> which are rarely heard in Japan. <b>Lice</b> and <b>scabies</b> are caused by parasites, <b>impetigo</b> by bacterium and <b>ringworm</b> by a kind of fungi (mold). All begin with itchiness of the skin, and skin symptoms get worse by scratching, which also contributes to spreading. While cleanness is the key to prevention, it is difficult to eradicate these diseases in schools and daycare centers where children come in contact with each other. You can buy drugs at pharmacies, but it is recommended to be seen by a pediatrician or dermatologist to make sure there are no other skin diseases.
+<br><br>
+お子さんが、<b>虱 (Lice)</b>をうつされて驚かれた方が少なくないでしょう。<b>虱</b>以外にも、<b>疥癬 (Scabies、スケービー)　膿痂疹 (Impetigo、インペタイゴ)　白癬(Ringworm、リングワーム）</b>等、日本ではあまり聞かれなくなった皮膚病をハワイではよく耳にします。<b>虱</b>、<b>疥癬</b>は奇生虫、<b>膿痂疹</b>は細菌、<b>白癬</b>はカビの一種によっておこりますが、いずれも頭髪、皮膚のかゆみで始まります。そして、かくことによって皮膚症状が、増悪し、また、拡がります。清潔にすることが第一の予防ですが、学校や保育園等、子供達がお互いに接触するところでは、根絶はむつかしい問題となっています。ドラッグ・ストアーでも薬を売っていますが、小児科、皮膚科で診てもらって、他の皮膚病がないか確認しておくことも大切です。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+Hawaiian islands are lands of ever-lasting summer. Bugs, too, must feel very comfortable to live here.
+<br>
+“Good night, sleep tight. Don’t let the bed bugs bite.”
+<br>
+Many of you, in or out of Hawaii, may remember your mom’s words.
+<br><br>
+ハワイは常夏の島。虫たちにとっても住み心地がよいのでしょう。
+<br>
+Good night, sleep tight. Don't let the bed bugs bite.
+<br>
+ぐっすり、おやすみ。トコジラミ（南京虫）に噛まれないようにね。
+<br>
+ハワイ州に限らず、お母さんからこんな言葉をかけてもらった人も多いと思います。
+<br>
+<div style="text-align:right;">
+[shi08]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

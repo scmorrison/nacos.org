@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 忘れ物です</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi5.php>どぎまぎ　＜ら〜わ＞</a> >
+忘れ物です
+</div>
+<br>
+<b>忘れ物です。</b>
+<br>
+At the shopping center, Osamu went to the restroom and washed his hands. Then he noticed that someone forgot their attache case. Osamu wanted to follow him and give it to him but he hesitated because he didn't want to get into trouble. He didn't want to be holding onto someone else's stuff and be accused of stealing. Then Osamu left it in the restroom but he felt down about it all day. If you see someone leave something behind, you should run after them and try to return it. You can say: "Did you lose this? or Is this yours? You should be honest. Some people are not honest and try to keep whatever they find. There's a sayingthat goes like this: "Finders, keepers, losers, weepers." This means that if you find anything, you can keep it. And that people who find things are the winners. If no one claims the item, you can keep it. You may sound greedy trying to claim something, but some people do. Here's a sentence you can use: "If no one claims it, may I have it? My number is 390-9098 and my name is Sally Jud."
+<br><br>
+ショッピング・センターのトイレで手を洗い、ふと足元を見ると、先ほどまで横にいた人がアタッシュ・ケースを置き忘れているのに気づきました。すぐ後を追って渡してあげようかとも思ったのですが、ためらいの気持ちが起こりました。人のものを持ってウロウロしていると余計な面倒に巻き込まれるかもしれないとの思いでした。結局、そのままにして立ち去りました。１日中、晴れない気持ちが続きました。
+<br><br>
+異国の土地で予期せぬトラブルや、あらぬ疑いをかけられたくないという気持ちも分かります。しかし、遺失物取扱所などに届けてあげるのも楽しい思いで作りになるかもしれません。途中で持ち主が貴方を見つければ、「持ち主を探しているところでした」／I was trying to find the owner.あるいは、「遺失物取扱所へ届けるところでした」／I was just on my way to the lost and found department.と答えて下さい。ちなみに、briefcaseのことを、日本語ではアタッシュ・ケースattachecaseという場合が多いと思います。私達は滅多に使いません。
+<br><br>
+遺失物取扱所はどこにありますか？
+<br>     
+Where is the lost and found department?
+<br><br>
+ここには遺失物取扱所はありますか？
+<br>      
+Do you have a lost and found department?
+<br><br>
+どのように行けばよいですか？
+<br>    
+How can I get there?
+<br><br>
+これを男子用のトイレの中で見つけました。
+<br>    
+I found this in the men’s room. 
+<br><br>
+<img src='rensaikiji_dogi035.jpg' alt='忘れ物です' width='200' height='384'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

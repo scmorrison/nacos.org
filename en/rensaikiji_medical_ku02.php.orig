@@ -1,0 +1,203 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: くしゃみ</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expessions　<あ〜か＞</a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br><br>
+allergic rhinitis　アレルギー性鼻炎　アレルギーせいびえん
+<br>
+common cold　普通の風邪　ふつうのかぜ
+<br>
+cough　咳　せき
+<br>
+drugs for cold, cough, influenza　風邪用（かぜよう）、せき用、インフルエンザ用
+<br>
+nasal mucus　鼻水　はなみず
+<br>
+over the counter drugs　処方箋なし薬
+<br>
+pharmacist　薬剤師　やくざいし
+<br>
+prescription drugs　処方箋薬　しょほうせんやく
+<br>
+rhinitis　鼻炎　びえん
+<br>
+sneeze, sneezing　くしゃみ
+<br>
+stuffy nose　鼻づまり　はなづまり
+<br><br>
+I can't adapt quickly to changing weather or temperature.
+<br>
+気温や室温の変化に身体がすぐに順応できません。
+<br>
+きおんやしつおんのへんかに　からだがすぐにじゅんのうできません。
+<br>
+<br>
+Cold air makes my nose itchy and makes me <b>sneeze</b> a lot.
+<br>
+冷たい空気を吸うと、鼻がムズムズしてきて、<b>くしゃみ</b>を連発します。
+<br>
+つめたいくうきをすうと　はながムズムズしてきて、<b>くしゃみ</b>をれんぱつします。
+<br>
+<br>
+After serveral <b>sneezes</b>, my eyes get watery and red.
+<br>
+数回<b>くしゃみ</b>をすると、涙が出て、目が赤く充血します。
+<br>
+すうかい<b>くしゃみ</b>をすると、なみだがでて、めがあかくじゅうけつします。
+<br>
+<img src='rensaikiji_medicalmanga_hanamizu.jpg' alt='鼻水' width='175' height='180' align='right'>
+<br>
+My nose starts running too.
+<br>
+同時に鼻水も出ます。
+<br>
+どうじに　はなみずもでます。
+<br>
+<br>
+I make sure I gargle a few times every day.
+<br>
+うがいをするようにこころがけています。
+<br>
+<br>
+I have the same symptom all year round.
+<br>
+このような症状を年中繰り返しています。
+<br>
+このようなしょうじょうを　ねんじゅうくりかえしています。
+<br>
+<br>
+I just take <b>cold medicines</b> when it becomes uncomfortable.
+<br>
+不快な時には、<b>風邪薬</b>を飲んでいます。
+<br>
+ふかいなときには、<b>かぜぐすり</b>をのんでいます。
+<br>
+<br>
+My <b>nose gets stuffy</b> especially in the early morning when it's cooler. I feel stuffed up.
+<br>
+睡眠中、朝方になって気温が低くなると<b>鼻づまりがして</b>、息苦しくなります。
+<br>
+すいみんちゅう、あさがたになって　きおんがひくくなると　<b>はなづまりがして</b>、いきぐるしくなります。
+<br>
+<br>
+I try to avoid taking medications while working as they make me sleepy.
+<br>
+仕事中に眠くなるので、薬は極力飲まないようにしています。
+<br>
+しごとちゅうにねむくなるので、くすりは　きょくりょく　のまないようにしています。
+<br><br>
+<img src='rensaikiji_medicalmanga_kushun.jpg' alt='くしゅん' width='200' height='97'>
+<br><br>
+<b>A conversation between a patient and a doctor about sneezing</b>
+<br>
+<i>Patient:</i>
+<br>
+ “<b>Sneezing</b> suddenly, several times, followed by <b>runny nose</b> and tears, makes me uncomfortable.”  “Breathing gets difficult because of a </b>stuffy nose</b>.”  “<b>Cough</b> starts suddenly and doesn’t stop.”  I have such symptoms repeatedly throughout the year. I think they appear because I have <b>allergic rhinitis</b> or caught a <b>common cold</b>. I just take <b>over-the-counter drugs</b>.
+<br><br>
+突然、大きな<b>くしゃみ</b>が数回出る。そして、<b>鼻水</b>と涙が出て来て不愉快な気分になる。又、ある時には、<b>鼻づまり</b>のせいで呼吸しづらい。急に<b>咳</b>が出てとまらない。体質的なものから来るのか、こんな症状を年中繰り返しています。<b>アレルギー性鼻炎</b>か、<b>普通の風邪</b>だろうと判断して、たまに<b>処方箋なしの風邪薬</b>を飲んでいます。
+<br><br>
+<i>Doctor:</i>
+<br>
+All of us catch cold <b>(with runny nose and cough)</b> or suffer from <b>allergic rhinitis</b> one time or another. We know most of the time what causes these conditions, for example, lack of sleep due to overwork or high pollen count. While <b>sneezing and coughing</b> prove that the body’s defense mechanism is functioning, these symptoms may progress to airway infections when the body is not in optimum health. If you have such symptoms as <b>stuffy nose</b> and <b>runny nose</b> at certain times of year or after eating certain foods, you may be <b>allergic to</b> certain things (i. e., allergen). Although you can try to avoid <b>allergens</b>, you would benefit from seeing an <b>allergy specialist</b>. With air conditioning and other modern inventions, physical adjustment is getting harder and harder and thus, paying close attention to daily life becomes even more important.
+<br><br>
+普通の風邪<b>（鼻水、咳）</b>や<b>アレルギー性鼻炎</b>には誰もが一度ならず悩まされますが、ほとんどの場合、原因に思い当たりますね。例えば、仕事上の無理をして睡眠不足気味であったり、花粉の多い時期であったりする等です。<b>くしゃみや咳</b>は、身体の自己防御機構の最前線が働いている証拠ですが、上記の様に身体の調子が優れていない場合には、気道感染へと進みます。毎年、決まった時期、或いは、ある種の食物を摂取した後に、<b>鼻づまり、鼻水が出る</b>といった症状に気付かれる場合は、<b>アレルギー</b>が考えられます。<b>原因となる物</b>を取り除く（喫煙も悪化の原因となります。）以外に、ご自分であれこれ薬を試されるよりも、<b>アレルギー専門医</b>に相談なさるのも益あることです。空調設備の発達した現代の生活は、身体の調節が追い付かないといったケースも増えています。日常生活に気をつけることがますます大切になっています。
+<br>
+<img src='rensaikiji_medicalmanga_kushami.jpg' alt='くしゃみ' width='272' height='250'>
+<br>
+<b>My two cents　一言おせっかい</b>
+<br>
+If you have no time to go see a doctor and need medication quickly, you can purchase over-the-counter preparations of
+regular strength. If you have experienced hypersensitivity to drugs in the past, you should consult your doctor.
+<br><br>
+「医師のところへ行く時間がない、ともかく薬を！」という場合は、regular strength とパッケージに書かれた薬から始められた方が安全でしょう。過去に、薬に対して、敏感症の経験のあった方は、医師に相談なさることをお勧めします。
+<br>
+<div style="text-align:right;">
+[ku02]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

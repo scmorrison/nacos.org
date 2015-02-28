@@ -1,0 +1,191 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 破傷風</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical3.php>Medical Expressions　<は〜わ></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_toge.jpg' alt='指のとげ' width='150' height='200' align='right'>
+<br>
+rusty nail　錆びた釘　さびたくぎ
+<br>
+seizures　痙攣　けいれん
+<br>
+splinter　棘　とげ
+<br>
+stiffness　こわばり
+<br>
+tetanus　破傷風　はしょうふう
+<br>
+<br>
+I have a <b>splinter</b> in my palm.
+<br>
+手のひらに<b>とげ</b>が刺さりました。
+<br>
+てのひらに　<b>とげ</b>がささりました。
+<br>
+<br>
+I stepped on a <b>rusty nail</b>.
+<br>
+<b>錆びた釘</b>を踏みました。
+<br>
+<b>さびたくぎ</b>を　ふみました。
+<br>
+<br>
+My daughter had a <b>seizure</b> a couple of minutes ago.
+<br>
+娘が、２～３分前に<b>痙攣</b>を起こしました。
+<br>
+むすめが、２～３ぷんまえに　<b>けいれん</b>をおこしました。
+<br>
+<br>
+My son is complaining of <b>stiffness</b> in his neck and jaw.
+<br>
+息子が、首と顎の<b>こわばり</b>を訴えています。
+<br>
+むすこが、くびとあごの<b>こわばり</b>をうったえています。
+<br>
+<br>
+When was your last <b>tetanus</b> shot?
+<br>
+<b>破傷風</b>の予防注射を最後に受けたのはいつですか？
+<br>
+<b>はしょうふう</b>のよぼうちゅうしゃを　さいごにうけたのはいつですか？
+<br>
+<br>
+I haven't had one for a long time. I don't remember.
+<br>
+長い間、受けていません。覚えていません。
+<br>
+ながいあいだ、うけていません。おぼえていません。
+<br>
+<br>
+It must have been a long time ago.
+<br>
+随分、昔のことだと思います。
+<br>
+ずいぶん、むかしのことだとおもいます
+<br>
+<br>
+While walking on the coral reef, I cut my foot.
+<br>
+サンゴ礁の上を歩いていて、足を切りました。
+<br>
+サンゴしょうのうえをあるいていて、あしをきりました。
+<br><br><br>
+<b>A conversation between a patient and a doctor about the tetanus</b>
+<br>
+<i>Patient:</i>
+<br>
+In Hawaii, adults and children alike enjoy all kinds of sports in the parks and on the beach. Somehow, children get cuts no matter how often they are told to be careful.
+<br><br>
+Hawaii is blessed with warm weather. However, as the air temperature is high throughout the year, people wear light clothing and footwear, and thus, get injured easily. When you are injured on the beach, the cuts may contain pieces of coral.
+<br><br>
+ハワイは暖かい気候に恵まれた美しい島です。しかし、年中気温が高く、軽装で過ごす機会も多く、ケガをしやすい環境にあります。特にビーチでの切り傷は、サンゴの破片が入ったりすることがあります。
+<br><br>
+<i>Doctor:</i>
+<br>
+Those cuts may appear slight, but they will swell up quite a bit. If you step on a <b>rusty nail</b>, or if open wounds have dirt in them, there is a risk of <b>tetanus</b>. It is important to be treated appropriately at the hospital.
+<br><br>
+<b>Tetanus</b> is a neuromuscular (of nerve and muscle) infection caused by Clostridium tetani (tetanus bacterium), characterized by stiffness of the neck and jaw plus <b>seizures</b>. Usually, the wound itself does not look like anything special. In severe cases, the <b>stiffness</b> of muscles appears the following day or 2 days after receiving a cut. You must be treated immediately when said symptoms appear.
+<br><br>
+ケガをした直後には軽く見えても、２～３日後に、赤く腫れ上がることがあります。また、<b>錆びた釘</b>を踏んだり、傷口に泥が入ったりした場合には、<b>破傷風 (tetanus)</b> の危険がありますので、ただちに病院で適切な手当を受ける必要があります。
+<br><br>
+<b>破傷風</b>とは、傷口から侵入した破傷風菌によっておこる、神経筋肉系統の感染です。首、顎の強直と<b>痙攣</b>が特徴ですが、傷口の状態自体は、特別の所見を表さないのが普通です。重度の症例では、早くて翌日か２日目に筋肉の<b>こわばり</b>が現れます。その際には、一刻も早く処置を受けなければなりません。
+<br><br>
+<img src='rensaikiji_medicalmanga_mikozouri.jpg' alt='ウクレレとぞうり' width='166' height='250'>
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+My two cents worth of advice. It may or may not be worth a lot, but this is what I think or what I think you should do. It is safer if you wear kamaboko slippers or any other protective shoes when walking on a coral reef.
+<br><br>
+サンゴ礁の上を散歩する時には、素足でなく、ぞうりなどを履く方が安全です。
+<br>
+<div style="text-align:right;">
+[ha01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

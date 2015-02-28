@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 便秘</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical.php>Medical Expessions　<あ〜か＞</a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_benpi.jpg' alt='便秘' width='284' height='200' align='right'>
+<br>
+bowel movement　便通　べんつう
+<br>
+carbohydrate　炭水化物　たんすいかぶつ
+<br>
+constipation　便秘　べんぴ　
+<br>
+constipated　便秘をしている
+<br>
+enema　浣腸　かんちょう
+<br>
+fat(lipid)　脂肪　しぼう
+<br>
+fiber　繊維質　せんいしつ
+<br>
+laxatives　緩下剤　かんげざい
+<br>
+protein　蛋白質　たんぱくしつ
+<br>
+starch　でんぷん
+<br>
+tummy　お腹（口語）　おなか
+<br>
+vegetable　野菜　やさい
+<br><br>
+I am constipated.
+<br>
+便秘をしています。
+<br>
+べんぴをしています。
+<br>
+<br>
+My tummy feels bloated.
+<br>
+お腹が張ります。
+<br>
+おなかがはります。
+<br>
+<br>
+I haven't had a <b>bowl movement</b> for several days.
+<br>
+もう、数日、<b>便通</b>がありません。
+<br>
+もう、すうじつ、<b>べんつう</b>がありません。
+<br>
+<img src='rensaikiji_medicalmanga_benpigimi.jpg' alt='便秘気味' width='200' height='149' align='right'>
+<br>
+I tend to get constipated when I travel.
+<br>
+旅行に出ると便秘がちになります。
+<br>
+りょこうにでると　べんぴがちになります。
+<br>
+<br>
+I don't want to take <b>laxatives</b>.
+<br>
+<b>緩下剤</b>は飲みたくないのですが。
+<br>
+<b>かんげざい</b>は　のみたくないのですが。
+<br>
+<br>
+Try to eat foods that are rich in <b>fiber</b>.
+<br>
+<b>繊維質</b>の食べ物をとるように心掛けて下さい。
+<br>
+<b>せんいしつ</b>のたべものをとるように　こころがけてください。
+<br>
+<br>
+You have to eat balanced foods that have a lot of <b>carbohydrates</b>, <b>protein</b> and are low in <b>fat</b>.
+<br>
+<b>炭水化物</b>、<b>蛋白質</b>、質のよい<b>脂肪</b>など、バランスの取れた食事をして下さい。
+<br>
+<b>たんすいかぶつ</b>、<b>たんぱくしつ</b>、しつのよい<b>しぼう</b>など、バランスのとれたしょくじをしてください。
+<br><br><br>
+<b>A conversation between a patient and a doctor about constipation</b>
+<br>
+<i>Patient:</i>
+<br>
+My daughter seems to be constipated. Lately, she is strained at her job and her meals are irregular. Is there any way to correct the condition without taking medications? Also, what should she do in everyday life?
+<br><br>
+娘は、最近、緊張する仕事が続いて、更に、食事が不規則になっているせいか、このところ便秘気味らしいのです。お薬を服用しないで、スッキリする方法はないものでしょうか？　また、日常での注意も教えて下さい。
+<br><br>
+<i>Doctor:</i>
+<br>
+While <b>constipation</b> is not a disease requiring urgent attention, it indeed gives a difficult time to people who suffer from it. Constitution, eating habit and diet, all of these affect bowel movement. Nervous people tend to have <b>constipation</b> or <b>diarrhea</b> when environment changes even slightly. Try to eat regularly and more fibrous vegetables. Also, it is important to eat a balanced diet containing all of <b>carbohydrate</b>, <b>protein</b>, <b>fat</b> and water. It may be worthwhile to know which foods cause <b>constipation</b> or help <b>bowel movement</b>.
+<br><br>
+<b>便秘</b>は緊急を要する病気ではありませんが、本人にとっては大変苦しいものです。体質、食習慣、食事内容が互いに影響し合って症状が現れます。神経質な人は、一寸した環境の変化で<b>便秘</b>や<b>下痢</b>になりがちです。食事はできるだけ規則正しく取るようにして、繊維質の野菜を多く取るように、また、食事内容も<b>炭水化物</b>、<b>蛋白質</b>、<b>脂肪</b>、水分、すべてに食品バランスの取れるように心掛けましょう。ご自分の摂取の内容を調べて、<b>便秘</b>になりやすい食品、<b>便通</b>を助ける食品を知っておくのもよいでしょう。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+There are a few measures said to work for constipation; massage slowly you tummy clockwise, drink cold water the first thing in the morning, and others. Try them. They may work. In Hawaii, fresh banana or papaya are said to promote bowel movement, while guava is used when you have soft stool.
+<br><br>
+便秘対策としてあれこれ言われています。下腹部を、ゆっくり右回りにマッサージする、朝起きがけに冷たい水を一杯飲む。こんな方法を試してみるのも価値がありましょう。ハワイでは、新鮮なバナナ、パパイアが便通をうながすと言われています。逆に、グァヴァは軟便の時に食べるようですね。
+<br>
+<div style="text-align:right;">
+[be01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

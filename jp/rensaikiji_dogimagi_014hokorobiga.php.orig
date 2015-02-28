@@ -1,0 +1,121 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: ほころびがあります</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi3.php>どぎまぎ　＜な〜は＞</a> >
+ほころびがあります
+</div>
+<br>
+<b>ほころびがあります。</b>
+<br>
+Osamu bought good aloha shirt at the department store. But one of the seams was ripping. It also has a stain. If he were in Japan, he would complain right away. But he was here in the U.S. so the situation was different for him. He had a good time with his wife in Hawaii and if he complained, or got in trouble, their trip would be unhappy. He was afraid about that because he knew he couldn’t make a good negotiation. So he gave up thinking about returning the shirt. He just left it in his suitcase.
+Japanese people might feel a little hesitant to go back and replace something. Maybe it’s shameful. Americans care more about getting their money’s worth than embarassing themselves. So they will not be hesitant about returning something. They will feel this way only if it’s very inconvenient to go back to that store. Always save your receipt. With the receipt you can return almost anything. If the store is closing, they may have a sign “All sales final” and in this case you must keep all purchases even though it’s defective.
+<br><br>
+百貨店でせっかく買ったアロハ・シャツに、ほころびをみつけました。おまけに汚れもついています。日本の百貨店ならば、早速、苦情を入れたいところですが、アメリカでは少々勝手が違います。ヘタな苦情のやり取りで、家内とのくつろいだ旅行に水を差したくないという気持ち、一方、やはり少し不甲斐ないという気持ち。そんな入り組んだ気持ちを引きずりながら、結局、のんびり旅行のお座興として、不本意な買物を旅行カバンに詰め込むこととなりました。
+<br><br>
+セールの際、All Sales Final!　「返品・交換などには応じません」という提示がある場合があります。それ以外では、ほとんどの店が気持ちよく交換に応じてくれることと思います。領収書の提示を求められる場合のあることなど、日本と差して違いはありません。いくつかの場合を例示してみましょう。
+<br><br>
+今日、これを買ったのですが、交換して頂けますか。
+<br>   
+Excuse me, I bought this today. Could I exchange this?
+<br><br>
+しみが付いています。
+<br> 
+It has a stain.
+<br><br>
+縫目にほころびがあります。
+<br>    
+One of the seams is ripping.
+<br><br>
+穴があいています。
+<br>     
+It has a hole.
+<br><br>
+ボタンがとれています。
+<br>
+It is missing a button.
+<br><br>
+<img src='rensaikiji_dogi014.jpg' alt='ほころびがあります' width='200' height='340'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

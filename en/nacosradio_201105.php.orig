@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: NACOS Radio May 2011</title>
+
+	<script type="text/javascript" src="http://mediaplayer.yahoo.com/js"></script>
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+					<a class=navSub href="nacosradio_archives.php">Archives</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<b>NACOS Radio: May 2011</b>
+<br><br>
+<div class="radioBox">
+<a href="audio/Cough.mp3">Cough, by Dr. Yoko Kelley</a>
+<br><br>
+<img src='nacosradio_kenkoucorner.jpg' alt='健康コーナー' width='200' height='81'>
+<br><br>
+咳が気になります。
+<br>
+I am worried about the cough.
+<br><br>
+喉の奥が痛いです。
+<br>
+I have a sore throat.
+<br><br>
+気管支が詰まった感じです。
+<br>
+I feel that my trachea is clogged.
+<br><br>
+急に咳が出て、止まりません。
+<br>
+I suddenly started coughing, and the cough does not stop.
+<br><br>
+咳をし過ぎて、声が出なくなりました。
+<br>
+I have coughed so much that I’ve lost my voice.
+<br><br>
+咳が激し過ぎて、腰の痛みがぶりかえしました。
+<br>
+I have coughed so violently that my old back pain has returned.
+<br><br>
+Read More...
+<a href="http://nacos.org/en/rensaikiji_medical.php">Medical Expressions</a>
+<br><br>
+<img src='nacosradio_manga_wardrobe.jpg' alt='ワードローブ' width='350' height='375'>
+<br>
+<b>Illustration by Dr. Norman Kelley</b>
+</div>
+<br><br>
+<div class="radioBox">
+<a href="audio/Undershirts.mp3">Undershirts, by Yoko K</a>
+<br><br>
+<img src='nacosradio_haiku.jpg' alt='俳句' width='150' height='50'>
+<br><br>
+寒戻り長袖下着の再登場
+<br>
+かんもどり　ながそでしたぎの　さいとうじょう
+<br><br>
+The cool weather has returned
+<br>
+Long-sleeve undershirts
+<br>
+reappear
+<br><br>
+</div>
+<br><br>
+<div class="radioBox">
+<a href="audio/Visitjapan.mp3">Visit Japan, by Patrick C</a>
+<br><br>
+　２０００年、私は、友人と、日本へ行く機会がありました。日本で印象に残ったことを、少し、お話しします。日本では、まず、物価の高さに驚きました。 すべてのものが、本当に高かったです。ここでは、お金の値打ちを考え直すか、ものを買うことをあきらめるか、どちらかだと思いました。もう一つ、驚いたことは、道が綺麗だということでした。私の生まれ故郷、ボストンの道と較べた時、特に、そのように思いました。その他、大阪のアメリカ村という所で、買い物をしました。若者が、色々、不思議なファッションをしていました。又、友人の家では、生まれて初めて、ふぐを食べました。ふぐは、猛毒を持っているということでした。そして、食べ物で、特に、気に入ったものがありました。それは、お好み焼きとたこ焼きです。以上、日本で印象に残ったことでした。私は、日本旅行を決して忘れることはありません。いつかまた、きっと日本へ行きたいと思っています。
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

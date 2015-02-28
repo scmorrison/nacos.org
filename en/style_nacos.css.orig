@@ -1,0 +1,136 @@
+body {	
+	padding: 0;
+	margin: 0px 0px 0px 0px;
+	min-width: 840px;
+
+	text-align: center;
+	
+	color: #1F1F1F;
+	background-color: #C7E995;
+	background-color: #D3D3D3;
+	background-color: #FEE3C7;
+	background-color: white;
+	background: url(style_bodytile.gif) transparent repeat;
+	
+	font-family: "Trebuchet MS",arial,sans-serif;
+	font-size: 0.9em;
+	line-height: 1.4em;
+}
+
+a img {
+	border: none transparent 0px;
+}
+
+#wrapper {
+
+	margin: auto auto auto auto;	/* This needs to be in here because firefox is an ass without it */
+	padding: 0px 15px 0px 15px;
+	
+	position: relative;
+	width: 800px;
+	overflow: hidden;
+	
+	border: #36281A solid 1px;
+	border-top-style: none;
+
+	text-align: left;
+	
+	background: url(style_wrappertile.png) transparent repeat;
+}
+
+#navBox {
+	float: left;
+	width: 165px;
+	
+	padding: 1px;
+	border: #36281A solid 4px;	/* Match with contentBox */
+	
+	background: white;
+}
+#navTopSpacer {
+	height: 125px;
+	background: url(style_navtopspacer.png) transparent no-repeat top left;
+}
+#nav {
+	min-height: 350px;
+	
+	padding: 8px 7px 10px 10px;
+}
+#nav a,
+#nav a:active,
+#nav a:visited {
+	display: block;
+	padding: 5px 0px 0px 0px;
+	
+	color: #36281A;
+	text-decoration: none;
+	font-weight: bold;
+}
+#nav a:hover {
+	color: #184A06;
+	text-decoration: underline;
+}
+#nav a.navSub,
+#nav a.navSub:active,
+#nav a.navSub:visited,
+#nav a.navSub:hover {
+	padding: 5px 0px 0px 10px;
+	
+	font-weight: normal;
+}
+#nav a.navLang,
+#nav a.navLang:active,
+#nav a.navLang:visited {
+	color: #184A06;
+}
+#nav a.navLang:hover {
+	color: #589106;
+}
+
+/* Navigation for the third level (sub-pages of submenus :P) */
+.navsub3 {
+	font-size:12px;
+}
+.navsub3 a,
+.navsub3 a.active,
+.navsub3 a.visited {
+	color: #184A06;
+}
+.navsub3 a:hover {
+	background-color: #fba045;
+}
+
+#contentBox {
+	float: right;
+	width: 605px;
+	
+	padding: 1px;
+	border: #36281A solid 4px;	/* Match with navBox */
+	
+	background: white;
+}
+#contentTopSpacer {
+	height: 140px;
+	background: url(style_contenttopspacer.png) transparent no-repeat top left;
+}
+#content {
+	position: relative;
+	left: 10px;
+	width: 575px;
+	
+	text-align: justify;
+}
+#contentFoot {
+	width: 100%;
+	background: url(style_contentFootBar.gif) transparent no-repeat top center;
+	padding: 3px 0px 0px 0px;
+	color: #565656;
+	font-size: 0.7em;
+	line-height: 1.3em;
+}
+
+/* NACOS radio page styles */
+.radioBox {
+	border: dotted black 1px; 
+	padding: 3px 5px 3px 5px;
+}

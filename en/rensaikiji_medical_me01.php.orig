@@ -1,0 +1,198 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: メラニン色素</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">Home</a>
+					<a href="nihongokenshuu.php">Japanese Program</a>
+<!-- Ignore this for now: BEGIN -->
+<!-- Ignore this for now: END -->
+					<a href="rensaikiji.php">NACOS Articles</a>
+					<a class=navSub href=rensaikiji_kotowaza.php>Japanese Proverbs</a>
+                                <a class=navSub href=rensaikiji_chiebukuro.php>Useful Expressions</a>
+                                <a class=navSub href=rensaikiji_medical.php>Medical Expressions</a>
+					<a href="nacosradio.php">NACOS Radio</a>
+
+					<a href="hyoujou.php">Project Pictures</a>
+					<a href="payments.php">Pay Via PayPal</a>
+					<a href="gorenraku.php">Contact Us</a>
+                                   		
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">NACOS Nagaya</a>
+					<a href="http://chanomitalk.com/">ChanomiTalk</a>
+					<a href="http://gallery.nacosnagaya.org/">Showcase</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/en/rensaikiji_medical3.php>Medical Expressions　<は〜わ></a> 
+</div>
+<br>
+This page has usage examples for the following words:
+<br>
+<img src='rensaikiji_medicalmanga_shimi.jpg' alt='メラニン' width='200' height='179' align='right'>
+<br>
+a mole, moles　ほくろ
+<br>
+a suntan, sunburn　日焼け　ひやけ
+<br>
+dermatology　皮膚科　ひふか
+<br>
+dermatologist　皮膚科医　ひふかい
+<br>
+freckles　そばかす
+<br>
+lines, wrinkles　しわ
+<br>
+melanin　メラニン色素　メラニンしきそ
+<br>
+pimples, acne　ニキビ、吹き出物　ニキビ、ふきでもの
+<br>
+skin cancer　皮膚癌　ひふガン
+<br>
+skin trouble　皮膚のトラブル　ひふのトラブル
+<br>
+spots　しみ
+<br>
+sunscreen　日焼け止め　ひやけどめ
+<br><br>
+I've noticed <b>spots</b> on my face.
+<br>
+顔に、<b>しみ</b>が出てきました。
+<br>
+かおに、<b>しみ</b>がでてきました。
+<br>
+<br>
+I've noticed <b>freckles</b> on my face.
+<br>
+顔中に、<b>そばかす</b>が出てきました。
+<br>
+かおじゅうに、<b>そばかす</b>がでてきました。
+<br>
+<br>
+My high school daughter is worried about <b>pimples</b> on her forehead.
+<br>
+高校生の娘のおでこに、<b>吹き出物／にきび</b>が出て、悩んでいるようです。
+<br>
+こうこうせいのむすめのおでこに、<b>ふきでもの／にきび</b>がでて、なやんでいるようです。
+<br>
+<br>
+I've just noticed <b>a mole</b> on my chin that I've never seen before.
+<br>
+あごに、これまでになかった<b>ほくろ</b>が出てきているのに気づきました。
+<br>
+あごに、これまでになかった<b>ほくろ</b>がでてきているのに　きづきました。
+<br>
+<br>
+Should I be worried about it?
+<br>
+これは心配なことでしょうか。
+<br>
+これはしんぱいなことでしょうか。
+<br>
+<br>
+Is it getting bigger, or is there no change in size?
+<br>
+徐々に大きくなっていますか？ それとも同じ大きさですか？
+<br>
+じょじょにおおきくなっていますか？ それともおなじおおきさですか？ 
+<br>
+<br>
+I've noticed a lot of small bumps around my eyes.
+<br>
+目のまわりに、白い米粒のようなものが、たくさんでてきました。
+<br>
+めのまわりに、しろいこめつぶのようなものが、たくさんでてきました。
+<br>
+<br>
+They aren't itchy or painful but I'm concerned.
+<br>
+痛くも痒くもないのですが、気になります。
+<br>
+いたくもかゆくもないのですが、きになります。
+<br><br>
+<img src='rensaikiji_medicalmanga_josei.jpg' alt='女性' width='300' height='104'>
+<br><br>
+<b>A conversation between a patient and a doctor about melanin</b>
+<br>
+<i>Patient:</i>
+<br>
+We spent the past few days mostly indoors, because, in addition to bad weather, there was a lot of work to do. But, as the pleasant wind starts blowing, we return to outdoor activities, and we notice that there are brownish <b>spots</b> on the face. Skin troubles from the sun are big worries to girls and women. A friend of mine has small rashes around the eyes and on the neck. Are they caused by the sun? As the sunlight is getting stronger day by day, our worries are increasing.
+<br><br>
+天候の不順と仕事の多忙を理由に屋内にいることの多い毎日でしたが、心地よい風に誘われるようにして、又、戸外での運動を始めるようになりました。しかし、強い日差しによって、知らず知らずのうちに、顔に薄茶色の<b>しみ</b>が出てきました。私たち女性にとっては、日光による肌のトラブルが気がかりです。友人は、目のまわりや、首のまわりに小さな米粒のようなものが出てきて悩んでいます。やはり、日光のせいでしょうか。これから、ますます日差しが強くなるので心配です。
+<br><br>
+<i>Doctor:</i>
+<br>
+When we are exposed to the sunlight, cells in the skin (melanocytes) produce a pigment called <b>melanin</b>. This phenomenon explains <b>suntan or sunburn</b>, and freckles are formed where there is a localized concentration of melanin in the skin. The amount of pigment produced varies by race and hereditary. <b>Melanin</b> exists not only in the skin but also in hair and other parts of the body. While <b>melanin</b> is seen as a villain to beauty-conscious people, it is in fact an important member of the defense system against invading pathogens、encapsulating and killing them. <b>Melanin</b> functions as a natural sun-screen in the skin and is also known to be essential for synthesis of vitamin D. Therefore, people with higher skin <b>melanin</b> content need longer hours of sun exposure than people with lower melanin content. People with higher skin <b>melanin</b> content who live in high latitude areas away from the equator are known to suffer from rickets. In regard to your friend with <b>skin trouble</b>, it is best to see a <b>dermatologist</b>.
+<br><br>
+太陽光線に当たると、皮膚の細胞（メラノサイトmelanocyte）が<b>メラニン</b>という色素を産出します。これが、いわゆる<b>日焼け</b>で、しみは局所的にメラニン色素が集まった部分に出来ます。メラニン色素の産出量は、人種、或いは、遺伝により異なります。<b>メラニン色素</b>は、皮膚だけでなく、毛髪や身体の他の部分にも存在します。<b>メラニン色素</b>は美容の見地からすると女性の敵扱いをされていますが、実はメラミン色素は身体の防御機構の重要な一員なのです。細菌を始めとする病原体が身体に侵入すると、まずメラニン色素が病原体を取り囲んで（メラニン化という）殺してしまいます。又、<b>メラニン色素</b>は太陽光線に対して、自然のサンスクリーンの働きをします。太陽光線はビタミンＤの生成に不可欠であることが知られていますが、それ故、<b>メラニン色素</b>の多い人は少ない人に比べて、太陽光線に当たる時間長くする必要があります。また、<b>メラニン色素</b>が多くかつ赤道から離れた高緯度に住んでいる人はビタミンＤ欠乏症（くる病）になりやすいことがしられています。ご質問の<b>皮膚のトラブル</b>については、やはり、<b>皮膚科</b>を受診されることをおすすめします。
+<br><br>
+<b>My two cents　一言おせっかい</b>
+<br>
+After you learn about the relationship between melanin and vitamin D, the use of sunscreen poses a problem; should I use a sunscreen or not? We use a sunscreen in order to avoid deleterious effects of the sun. On the other hand, sunlight is essential for vitamin D synthesis and subsequent calcium absorption. At present, the recommendation is to use sunscreen as well as take vitamin D supplements.
+<br><br>
+メラニン色素をビタミンＤの関係を知ると、サンスクリーンを使用することの是非が問題になります。サンスクリーンの使用目的は、太陽光線の有害な作用を避けるためです。一方、太陽光線はビタミンＤ生成，ひいてはカルシウムの吸収に必要です。現時点では、サンスクリーンを使用すると同時にビタミンＤの補給も怠らないでおくということでしょう。
+<br>
+<div style="text-align:right;">
+[me01]
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

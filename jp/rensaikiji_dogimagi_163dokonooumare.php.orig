@@ -1,0 +1,114 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: どこのお生まれですか</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi2.php>どぎまぎ　＜さ〜た＞</a> >
+どこのお生まれですか
+</div>
+<br>
+<b>どこのお生まれですか。</b> 
+<br>
+Are you originally from here? When you talk to people in Hawaii, it's strange to ask "Are you American?" because everyone is American- just different ethnicities and origins. There are other good sentences you can use: Were you born here? Are you from here? Are you originally from here? Where were you born? Where are you originally from?
+<br><br>
+私の友人にアジア系のアメリカ人がいます。先日、その人が少し不愉快な顔をして話してくれました。日本の人の中には、 ¨Are you American?¨ などと真面目な顔をして尋ねてくる人がいるというのです。悪気はないのだろうけれど、アメリカ人としての誇りを傷つけられたようで嫌な感じだったということでした。
+<br><br>
+アメリカにはいろいろな国からいろいろな人が来ています。このような質問の仕方は、やはり適当ではありませんね。一方、その方の生まれ故郷などを尋ねると、もっと楽しくスムーズな会話が生まれるかもしれません。アメリカでは生まれた後、いろいろな所に引っ越している人も多くいます。参考例の質問に対しては、次のような返答が返ってくるかもしれません。 "I was born in Ohio but my family moved to New York when I was 2. So I grew up there."
+<br><br>
+あなたは、どこのお生まれですか。
+<br>    
+Where were you born?
+<br>
+Where are you originally from?
+<br><br>     
+あなたはここのお生まれですか。
+<br>  
+Were you born here?
+<br>
+Are you from here?
+<br>
+Are you originally from here? 
+<br><br>
+<img src='rensaikiji_dogi163.jpg' alt='どこのお生まれですか' width='200' height='322'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

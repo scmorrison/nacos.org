@@ -1,0 +1,112 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: 匿名で苦情を伝えたいのですが</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<div class=navsub3>
+<a href=http://www.nacos.org/jp/rensaikiji.php>連載記事</a> >
+<a href=http://www.nacos.org/jp/rensaikiji_dogimagi2.php>どぎまぎ　＜さ〜た＞</a> >
+匿名で苦情を伝えたいのですが
+</div>
+<br>
+<b>匿名で苦情を伝えたいのですが。</b> 
+<br>
+People staying a long time in a condominium can see many people. Osamu had a room next to noisy people. Every day, they had a party until late at night. He wanted to complain but he was worried about getting into trouble. So he just prayed Please, just leave!
+<br><br>
+コンドミニアムに長期滞在していると色々な人の出入りがあります。たまたま大変騒がしい人達と隣合わせになってしまいました。連日、深夜まで大騒ぎしています。一言、苦情を言いたいのですが、どんなトラブルに巻き込まれるかもしれないと思うと、ただ一日も早く出ていってくれることを祈るばかりでした。
+<br><br>
+私たちは時として気付かないままに大きな音を出し、ご近所に迷惑をかけていることがあります。そんな時、謝る場合には、例えば、「すみません。気づきませんでした。静かにします」／I’m sorry. I didn’t know that. I’ll try to keep it down.／また、反対に苦情を言う場合には、お隣さんが問題のない人tならば、「すみません。やかましくて眠れません。もう少し静かにしていただけますか？」／Excuse me, you are a little noisy and I have trouble sleeping. Could you please be more quiet?／などと言えばいいですね。万一、不安な場合には、管理人さんに頼みましょう。表現例をあげてみます。
+<br><br>
+匿名で苦情を伝えたいのですが。
+<br>     
+I’d like to make an anonymous complaint.
+<br><br> 
+もう少し静かにするように言ってもらえますか。
+<br>    
+Could you ask them to be more quiet?
+<br><br>
+３０２号室の人達が、いつも大きな騒音を出します。
+<br>    
+The people in 302 are always making a racket. 
+<br><br>
+<img src='rensaikiji_dogi098.jpg' alt='匿名で苦情を伝えたいのですが' width='200' height='363'>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>

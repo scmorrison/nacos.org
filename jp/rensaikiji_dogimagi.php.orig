@@ -1,0 +1,165 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="pngfix.js"></script>
+<![endif]-->
+
+	<title>NACOS :: どぎまぎ　＜あ〜か＞</title>
+
+<link rel="stylesheet" type="text/css" href="style_nacos.css" />
+</head>
+<!-- It would probably be best not to modify this file :] -->
+	<body>
+		<div id=wrapper>
+			<div id=navBox>
+				<div id=navTopSpacer></div>
+				
+				<!--
+Modify this file to change the left side menu.
+
+Make sure links have "class=navSub" if you want it to be a submenu item
+-->
+				<div id=nav>
+                             	<a href="index.php">ホーム</a>
+<!-- Ignore this for now: END -->
+					<a href="eigokenshuu.php">英語研修</a>
+	
+					<a href="rensaikiji.php">連載記事</a>
+					<a class=navSub href=rensaikiji_eigoidiom.php>英語の熟語</a>
+					<a class=navSub href=rensaikiji_dogimagi.php>どぎまぎ</a>
+
+					<a href="hyoujou.php">研修表情</a>
+					<a href=paybypaypal.php>お支払い</a>
+					<a href="donation.php">ご寄付</a>
+					<a href="gorenraku.php">ご連絡</a>
+						
+					<br>
+					<a><img src=include_menu_nakama.png></a>
+					<a href="http://nacosnagaya.org/">ナコス長屋</a>
+					<a href="http://chanomitalk.com/">茶飲みトーク</a>
+					<a href="http://gallery.nacosnagaya.org/">ショーケース</a>
+				</div>
+			</div>
+			
+			<div id=contentBox>
+				<div id=contentTopSpacer>
+					&nbsp;&nbsp;
+					<a href=index.php><img src=include_contentBefore_nacoslink.png width=215 height=69></a>
+				</div>
+					
+				<div id=content><!-- ENTER CONTENT: BEGIN -->
+<b>どぎまぎコミュニケーション　:　あ〜か</b>
+<br><br>
+<a href="rensaikiji_dogimagi_078aisatsu.php">挨拶いろいろ。</a>
+<br>
+<a href="rensaikiji_dogimagi_176anatanohuku.php">あなたの服が好きです。</a>
+<br>
+<a href="rensaikiji_dogimagi_162amarisukidewa.php">あまり好きではありません。</a>
+<br>
+<a href="rensaikiji_dogimagi_155ikitai.php">行きたいのですが。</a>
+<br>
+<a href="rensaikiji_dogimagi_005isoide.php">急いでいます。</a>
+<br>
+<a href="rensaikiji_dogimagi_mukatteimasu.php">今、向かっています。</a>
+<br>
+<a href="rensaikiji_dogimagi_148uesutobag.php">ウエストバッグはありますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_177undou.php">運動をします。</a>
+<br>
+<a href="rensaikiji_dogimagi_112eikyuuni.php">永久に。</a>
+<br>
+<a href="rensaikiji_dogimagi_172oishasan.php">お医者さんへ行きます。</a>
+<br>
+<a href="rensaikiji_dogimagi_009osakini.php">お先にどうぞ。</a>
+<br>
+<a href="rensaikiji_dogimagi_026osuwarini.php">お座りになりますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_069otesuuwo.php">お手数をおかけしました。</a>
+<br>
+<a href="rensaikiji_dogimagi_109otsurigadete.php">お釣りが出てきません。</a>
+<br>
+<a href="rensaikiji_dogimagi_039otsuriga.php">お釣りが間違っています。</a>
+<br>
+<a href="rensaikiji_dogimagi_012otsuriwa.php">お釣りは1ドル札で頂けますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_160otsuriwa.php">お釣りはもう少しあるはずですが。</a>
+<br>
+<a href="rensaikiji_dogimagi_248otenkiiroiro.php">お天気いろいろ。</a>
+<br>
+<a href="rensaikiji_dogimagi_142otenkiaisatsu.php">お天気の挨拶。</a>
+<br>
+<a href="rensaikiji_dogimagi_170obonwaari.php">お盆（トレー）はありますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_001omizu.php">お水をください。</a>
+<br>
+<a href="rensaikiji_dogimagi_143omoiyari.php">思いやりがない。</a>
+<br>
+<a href="rensaikiji_dogimagi_066orimasu.php">降ります。</a>
+<br>
+<a href="rensaikiji_dogimagi_103gasoringire.php">ガソリン切れをおこしました。</a>
+<br>
+<a href="rensaikiji_dogimagi_159kanojoni.php">彼女にお願いしたいのですが。</a>
+<br>
+<a href="rensaikiji_dogimagi_136kamawanai.php">構いません。</a>
+<br>
+<a href="rensaikiji_dogimagi_153kinenbajji.php">記念バッジをください。</a>
+<br>
+<a href="rensaikiji_dogimagi_054kyoumiga.php">興味がありませんので。</a>
+<br>
+<a href="rensaikiji_dogimagi_140kireinaosatsu.php">きれいなお札をいただけますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_023kurumaga.php">車が動きません。</a>
+<br>
+<a href="rensaikiji_dogimagi_138goshinsetsu.php">ご親切ありがとうございます。</a>
+<br>
+<a href="rensaikiji_dogimagi_067goshinsetsukokoro.php">ご親切、心から感謝します。</a>
+<br>
+<a href="rensaikiji_dogimagi_187kozeniwo.php">小銭を使い切りたいので。</a>
+<br>
+<a href="rensaikiji_dogimagi_037kodomoga.php">子供が迷子になりました。</a>
+<br>
+<a href="rensaikiji_dogimagi_040konoisu.php">この椅子使っていますか。</a>
+<br>
+<a href="rensaikiji_dogimagi_057koohiiwokoboshi.php">コーヒーをこぼしました。</a>
+<br>
+<a href="rensaikiji_dogimagi_025koohiiwomeshiagari.php">コーヒーを召し上がりますか。</a>
+<br><br><br>
+<div class=navsub3 style="text-align:center;">
+＜あ〜か＞, <a href="rensaikiji_dogimagi2.php">＜さ〜た＞</a>, <a href="rensaikiji_dogimagi3.php">＜な〜は＞</a>, 
+<a href="rensaikiji_dogimagi4.php">＜ま〜や＞</a>, <a href="rensaikiji_dogimagi5.php">＜ら〜わ＞</a>
+</div>
+<!-- ENTER CONTENT: END -->
+					<br><br>
+					
+					<div id=contentFoot>
+						<table style="margin: 0 auto;">
+							<tr>
+								<td><a href="index.php"><img src=nacoshanko.png width=100 height=32></a></td>
+								<td><!-- MODIFY CONTENT: BEGIN -->
+									<!-- This is the text next to the NACOS hanko at the bottom of the page -->
+									&copy; 1995-2013 NACOS International Institute. All Rights Reserved.
+									
+									<!-- MODIFY CONTENT: END -->
+								</td>
+							</tr>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+<!-- Google Analytics Tracking BEGIN -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1059929-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- Google Analytics Tracking END -->
+	</body>
+</html>
+</html>
